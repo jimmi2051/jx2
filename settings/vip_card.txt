@@ -1,0 +1,14 @@
+ID	Switch	Name	G	D	P	StartTime	EndTime	Time
+H­íng dÉn	§ãng më	Tªn	G	D	P	Thêi gian b¾t ®Çu kÝch ho¹t	Thêi gian kÕt thóc kÝch ho¹t	H¹n sö dông (Ngµy)
+1	1	ThÎ ma kÕt	2	1	30955			30
+2	1	ThÎ B¶o B×nh	2	1	30981			30
+3	1	ThÎ Song Ng­	2	1	31017			30
+4	1	ThÎ B¹ch D­¬ng	2	1	31032			30
+5	1	ThÎ Kim Ng­u	2	1	31042			30
+6	1	ThÎ Song Tö	2	1	31062			30
+7	1	ThÎ cù gi¶i	2	1	30886			30
+8	1	ThÎ S­ Tö	2	1	30893			30
+9	1	ThÎ Xö N÷	2	1	30734			30
+10	1	ThÎ Thiªn Xøng	2	1	31083			30
+11	1	ThÎ Thiªn H¹t	2	1	30932			30
+12	1	ThÎ Nh©n M·	2	1	30939			30

@@ -1,0 +1,3 @@
+translifecount1	40
+translifecount2	1
+translifecount3	1

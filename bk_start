@@ -1,0 +1,3 @@
+#killall -9 SO2GameSvrD1
+#killall -9 gdb
+gdb -x gdb_gs.ini

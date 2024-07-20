@@ -1,0 +1,3 @@
+#killall -9 SO2GameSvrD345
+#killall -9 gdb
+gdb -x gdb_gs345.ini

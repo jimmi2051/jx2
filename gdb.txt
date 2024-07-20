@@ -1,0 +1,5 @@
+file SO2GameSvrD1 
+handle SIG32 nostop noprint
+handle SIGPIPE nostop noprint
+r 6660
+

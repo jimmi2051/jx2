@@ -1,0 +1,7 @@
+{
+	"Host":"127.0.0.1",
+	"Port":"3306",
+	"Database":"jx2ib_db_new",
+	"User":"root",
+	"Pass":"thuong"
+}

@@ -1,0 +1,10 @@
+Patch sua loi 1 so bug:
+ * Giao dich tien xu bi tran text.
+ * Sua bug giao dich gameserver bi crash.
+ * Sua bug bang hoi:
+    - Co luc khong nhan duoc thong bao bang hoi.
+    - Mot so loan ma trong thong bao bang hoi.
+    - Vua nhap bang hoac sau khi roi khoi bang, kenh bang hoi khong kip thoi cap nhat.
+ * Mo them vat pham Xuat hon qua
+ * Tat giam gia 3 vat pham.
+Update : 6h00 AM 18-07-2008

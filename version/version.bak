@@ -1,0 +1,3694 @@
+Path fix loi Giang Sinh
+Client 1.0.9 
+Update 10h00 24-12-2007
+Update sua loi lua dao giao dich
+Client 1.0.10
+Update 6:00AM 4-1-2008
+Update mo chien truong tong lieu
+Client 1.0.10
+Update
+Patch update 2 ib shop moi trong ky tran cac.
+Client : khongPatch update hoat dong tet va hoat dong le tinh nhan
+Thoi gian nhan patch 20080121
+Thoi gian du dinh update 20080126
+Client 1.0.15
+Patch update sua loi NPC khong noi chuyen
+Thoi gian nhan patch 20080122
+Thoi gian update 6:00AM 26-01-2008
+Client Patch 1.0.15
+Patch mo ky tran cac cho commercial
+Thoi gian hoan thanh patch 20080125
+CLient 1.15
+Patch 20080227
+Dung 30000 diem chien truong doi lenh bai
+Mo bang hoi,dong nhiem vu bo phi yen
+Bo tat ca cac phan thuong loi dai
+Sua loi mat tich ko hien thi yeu quyet
+Han che uy thac 800
+Client patch 1.0.19
+Thoi gian update
+
+Patch update gioi han thac quan 800
+Client : Khong
+Thoi gian update 07-08-2008
+Patch event 18-03
+Patch free level 1-54
+Client 1.0.21
+Patch update them 3 vat pham moi trong KTC
+Sua bug dich thuat tieu nhan sam
+Client : khong
+
+Patch dong event 18-03
+Sua chuoi nhiem vu HK
+Client: Co
+patch update mo 5 item trong ki tran cac
+Client: khong
+Patch update giam gia KTC 1/2
+Client : khong
+Patch update tat giam gia cac vat pham KTC
+Mo them 2 item : Vo Ngan Thuy va Co quan Nhan
+Update : 6h00 AM 11-04-2008
+Client : khong
+
+Patch sua loi nhan vat phai duong Mon khong the tien vao map tu luyen.
+Dieu chinh so nguoi chenh len chien truong la 5
+Relay log ghi lai Dang cap Bang Hoi
+Sua xep hang quan cong chien truong
+Dong xung hieu tuong quan va nguyen soai
+Sua loi tri quan khong suy giam.
+Client : Khong
+Ngay Update : 26-04-2008
+Giao dich tien xu.
+Tien xu doi ra gio choi.
+Mo Sat Thu Duong.
+Update 6h00 AM 27-05-2008.
+Patch update giam gia cac vat pham KTC
+Update : 6h00 AM 18-04-2008
+Client : khong
+
+Patch mo them 2 vat pham moi cho KTC:
+- Nu oa tinh thach
+- Cuu chuyen hoan hon dan
+Update: 06h00 AM 25-04-2008
+
+Patch event 30-4 & 01-05
+- Phan thuong Tong Lieu
+- Tim bao thach
+- Phan thuong tu Thuong nhan Tay Vuc
+- Nu Oa Tinh Thach doi trang bi Tong Lieu
+Update : 6h00 AM 26-04-2008Patch Phien Ban Thu Nghiem
+ - Thai Hu Hao Canh
+ - Ket Hon
+ - Thuyen Rong
+ - Mo Sat Thu Duong (2 lan tring 1 ngay)
+ - Them Log Sat Thu Duong nhan duoc mat tich toai phien
+
+Update : 6h00 AM 06-06-2008
+Patch giam gia 2 vat pham trong Ngu Cac
+Update 6h00 AM 02-05-2008
+Patch mo 2 vat pham moi cho Ngu Cac : Ky Mon Phu va Dau Thanh Tin
+Dong giam gia 2 vat pham : Gian Diep Trang va Co Quan Nhan
+Update : 6h00 AM 09-05-2008
+Giam gia 2 vat pham : Vo Ngan Thuy va Tinh luyen bang thach
+Update 6h00 AM 16-05-2008
+Patch mo 2 item moi : Phong lenh (So cap) & Quan cong chuong
+Tat giam gia 2 vat pham : Vo Ngan Thuy va Tinh luyen bang thach.
+Update 6h00 AM 23-05-2008
+Patch giam gia 2 vat pham Ngu Cac.
+Update 6h00 AM 30-05-2008
+Patch mo cac vat pham o Ngu Cac cho Phien Ban Thu Nghiem
+- Ruong trang suc (hon le)
+- Ruong Y Phuc (hon le)
+- Ruong le phuc chu hon nhan
+- Le Ruong
+- Tu Kim Hong bao (trong)
+- Hoang Kim Dai Hong bao (trong)
+- Hon khanh le hao bao
+- Phao hoa
+- Bao phao
+
+Update 6h00 AM 06-06-2008
+
+Patch dong Giao dich Xu va Ngu cac
+Update 10h00 PM 08-06-2008
+Patch mo Ngu cac va update fix Paysys.
+Updade 06h00 AM 10-06-2008
+Patch mo them 1 vat pham moi Ngu cac va giam gia 4 vat pham.
+- Chien bao cup the gioi.
+Update 06h00 AM 13-06-2008
+Patch mo Ngu cac
+Update 06h00 AM 14-06-2008
+Patch tat giam gia 4 vat pham.
+Mo vat pham moi : Mat na Sat Thu Duong
+Update 06h00 AM 20-06-2008
+Patch giam gia 8 ngoai trang Tong Lieu.
+Update 6h00 AM 27-06-2008
+Noi dung Patch :
+ * Sua loi giao dich xu
+ * Them chuc nang save log sau khi giao dich
+ * Them log tai khoan trong log giao dich xu
+
+Update : 06h00 AM 02-07-2008
+Patch Event Le Hoi Trai Cay :
+ * Le hoi trai cay
+ * Tieu Cat Tuong
+ * Giam diem PK cuoi tuan
+ * Mo 2 vat pham moi tren Ngu Cac : Tieu cat tuong va Thai Hu da mat qua
+Update 6h00 AM 04-07-2008
+Patch giam gia 3 vat pham Ngu Cac
+ * Giang Ho Hao Han
+ * Giang Ho Thieu Hiep
+ * Chuong mon dac phong lenh so cap.
+
+Update 6h00 AM 10-07-2008
+Patch sua loi 1 so bug:
+ * Giao dich tien xu bi tran text.
+ * Sua bug giao dich gameserver bi crash.
+ * Sua bug bang hoi:
+    - Co luc khong nhan duoc thong bao bang hoi.
+    - Mot so loan ma trong thong bao bang hoi.
+    - Vua nhap bang hoac sau khi roi khoi bang, kenh bang hoi khong kip thoi cap nhat.
+ * Mo them vat pham Xuat hon qua
+ * Tat giam gia 3 vat pham.
+Update : 6h00 AM 18-07-2008
+Patch fix cac tri so cua vat pham: 
+    * Truoc ngay 25/7 tinh theo gia tri cao 
+    * Sau ngay 25/7 tinh theo gia tri thap.
+    * Giam gia 4 vat pham cua Ngu Cac
+Update 6h00 AM 25-07-2008
+Patch dong Tieu Cat Tuong tren Ngu Cac. 
+
+Update 6h00 AM 29-07-2008
+Patch chinh ti le rot nhung item Tang Kiem 8x, 9x bang 0%
+
+Ngay tao patch : 15h00 PM 30-07-2008
+Up patch : 06h00 AM 31-07-2008
+Patch:
+    * Nhiem vu Bang Hoi va Boss Bang Hoi
+    * Them NPC bao danh chien truong (Tong : 173/192; 183/176 ; Lieu : 176/173 ; 175/182)
+    * Hoat dong nho dua thuyen rong
+    * Hoat dong nho Cat Tuong Thach
+
+    * Mo 2 item moi : Phong Thuong Lenh Tong va Lieu (Tien phong)   
+Ngay nhan patch : 25-07-2008
+Update 6h00 AM 01-08-2008
+Patch chinh cac item tu event Da Thao co thoi han 30 ngay. 
+
+Ngay tao patch : 17h00 pM 05-08-2008
+Update 06h00 AM 06-08-2008
+Patch khoa ky nang tap linh (NPC : Mac quan dao truong) map Tuyen Chau
+
+ngay tao : 21h00 PM 06-08-2008
+Up patch : 06h00 AM 07-08-2008
+Patch chinh ty le sinh than cang goi boss bang hoi:
+    * Boss hang 1: 15%
+    * Boss hang 2: 84%
+    * Boss hang 3 ( Bo Phi yen ) : 1 %
+
+    * Giam gia 3 item : Tinh luyen bang thach (30 xu) , Ky Mon Phu (30 xu) va Vo Ngan Thuy (150 xu)   
+Ngay tao patch : 06-08-2008
+Update 6h00 AM 08-08-2008
+Patch mo tang kiem son trang
+Client 1.0.8
+Update 00h 26-12-2007
+Patch fix dupe item Phu Thach.
+Patch mo ky nang tap linh (NPC : Mac quan dao truong) map Tuyen Chau
+
+Ngay nhan : 11h00 AM 08-08-2008
+Up patch : 06h00 AM 09-08-2008
+Patch check thoi han click 2 ruong nat la 10s
+Trong vong 10s khong the thu thap qua 1 ruong
+
+Ngay tao : 15h00 PM 13-08-2008
+Update : 06h00 AM 14-08-2008
+Patch tat giam gia 3 item : Tinh luyen bang thach (40 xu) , Ky Mon Phu (30 xu) va Vo Ngan Thuy (250 xu)   
+
+Ngay tao patch : 14-08-2008
+Update 6h00 AM 15-08-2008
+Patch write log check doi manh mat tich that lac.
+
+Ngay tao : 15-08-2008
+Update : 18h00 PM 15-08-2008
+(chi up 1 server Tang Long)Patch dong doi 10 manh mat tich that lac thanh bi kip.   
+
+Ngay tao patch : 16-08-2008
+Update 16h00 PM 16-08-2008
+Patch write log giao dich xu va lay item o chu Buu Cuc
+
+Ngay tao : 18-08-2008
+
+Ngay up patch : 06h00 AM 19-08-2008
+Patch dong Giao dich Xu tat ca server (tru Tang Long) 
+
+Update 19h30 PM 19-08-2008
+Patch giam gia 2 item : Mat na sat thu duong (45 xu) , Cuu chuyen hoi hon don (chien truong) (75 xu)   
+
+Ngay tao patch : 20-08-2008
+Update 6h00 AM 22-08-2008
+
+Patch KS fix :
+   * Sua loi dup thu tai chu Buu Cuc
+
+Ngay nhan patch : 17h00 AM 25-08-2008
+
+Up patch : 6h00 AM 26-08-2008
+( chi up tren 1 server Tang Long test truoc , Patch co kem theo file SO2RelayD )Noi dung Patch :
+    * Mo lai giao dich xu o tat ca server .
+    * Mo doi 10 manh mat tich that lac ra bi kiep
+    * Tat giam gia 2 item o Ngu cac : Mat na sat thu duong (60 xu), Cuu chuyen hoi hon don (100 xu)
+    * Mo item moi : Vo lam hao kiet (100 xu) 
+
+Ngay tao ; 10h00 28-08-2008
+Ngay Up Patch : 6h00 AM 29-08-2008
+Patch update loi gameserver thoat khoi Goddess,Bishop,relay
+Client
+Update
+Patch event Trung Thu 
+Patch giam gia item Ban Long Bich ( 80 xu ) 
+Mo item moi : Goi Gia Vi ( 1 xu )
+
+Ngay nhan : 16h30 PM 29-08-2008
+Ngay Up patch : 6h00 AM 05-09-2008
+
+
+Patch Promotion Cuu Nguyet Hao Van (Tu 05/09/2008 --> 30/09/2008) 
+
+Ngay tao : 11h00 AM 11-08-2008 
+Up Patch : 6h00 AM 05-09-2008Patch change dinh dang log Bang Hoi theo chuan thong nhat va cam Uy Thac chan Xa Thai Quan
+
+Ngay tao ; 15h00 08-09-2008
+Ngay Up Patch : 6h00 AM 10-09-2008
+Patch thang 10 :
+    - Su Mon Dai Su Kien
+    - Boss su mon
+    - Hoat dong thang 10.
+    - Xoa nhan vat.
+
+Ngay nhan patch : 16h00 PM 28-09-2008
+Up Patch : 6h00 AM 10-10-2008
+Patch chinh sua log :
+    - Chinh sua log ghi dung theo ngay thang
+    - Them so luong tien xu vao log de kiem tra 
+
+Ngay nhan patch : 18h00 PM 15-10-2008
+Up Patch : 6h00 AM 17-10-2008
+Noi dung Patch :
+    - Tiep tuc su dung ext point 7 ghi log nguoi choi co level cao.
+    - Chinh sua sau khi gop server khong bi tru diem cong trang
+    - Them 2 danh hieu : Vo dich don dau va Vo dich to doi
+    - Them han che so Bang hoi len toi da la 1000 bang 
+
+Ngay nhan patch : 15h00 PM 14-11-2008
+Up Patch : 6h00 AM 15-11-2008
+Patch sua loi event DLTC cho phep giai 4,5,6 nhan thuong
+Client patch 1.0.9
+Update 24h 23-12-2007
+Patch giang sinh
+Client 1.0.8
+Update 24h 23-12-2007
+
+Noi dung Patch :
+    - Mien phi gio choi cho moi level.
+    - Tu Quang Cac
+    - Bang Hoi Tinh Anh
+    - Chien truong Tong Lieu : Mo quan ham Tuong quan.
+    - Trang bi Tang Kiem 8x
+    - Nang cap trang suc Thai Hu
+    - Dieu chinh hoat dong trong cay Thai hu (them Ngu Hanh mat tich)
+    - Dong giao dich tien va he thong thu 
+    - Event Giang Sinh.
+Ngay nhan patch : 18h00 PM 14-11-2008
+Up Patch : 6h00 AM 05-12-2008
+Noi dung patch :
+   - Chinh lai thoi han cac ngoai trang sang 30 ngay.
+   - Chinh lai ty le roi : Hong phi thuy ho than phu : 25 %
+			   Toan thach gioi chi : 25 %
+( Cac ty le nay chi chinh trong 1 ngay - Bang Hoi Tinh Anh )
+
+Ngay tao patch : 15h00 PM 09-12-2008
+
+Ngay up patch : 06h00 AM 10-12-2008
+Noi Dung Patch:
+	Patch Dong rot tui loc mung xuan
+Ngay nhan Patch:
+	11h00 PM 12-02-2009
+Ngay up Patch:
+	6h00 AM 16-02-2009
+Noi Dung Patch:
+	- Patch dang ky thi dau Bang Hoi Tinh Anh
+	- Chinh gia ngu cac
+	- Fix S3relay crash.
+Ngay nhan Patch:
+	10h00 AM 18-02-2009
+Ngay up Patch:
+	6h00 AM 21-02-2009
+Client patch : 2.0.5Noi Dung Patch:
+	Patch Event 8/3
+Ngay nhan Patch:
+	11h00 AM 02-03-2009
+Ngay up Patch:
+	6h00 AM 06-03-2009
+Client version 2.0.6Noi Dung Patch:
+	Patch mo item moi cho Ngu Cac va giam gia Ngu Cac
+	- Mo Moi :
+	- Giam gia :
+	- Go bo : Ban Long Bich
+	
+Ngay tao Patch:
+	10h00 AM 12-03-2009
+Ngay up Patch:
+	6h00 AM 13-03-2009
+Client patch : 2.0.6Noi Dung Patch:
+	Fix ghi log doi vat pham Tang Kiem
+	
+Ngay tao Patch:
+	3h00 AM 17-03-2009
+Ngay up Patch:
+	6h00 AM 20-03-2009
+Noi Dung Patch:
+	IB shop sau event thang 3
+Ngay tao Patch:
+	3h00 AM 31-03-2009
+Ngay up Patch:
+	6h00 AM 5-03-2009
+Noi Dung Patch:
+	- Patch new Boss : Lan Hoa va Anh Tu
+	- Nhan thuong Bang Hoi Tinh Anh
+Ngay nhan Patch:
+	16h30 PM 02-04-2009
+Ngay up Patch:
+	6h00 AM 07-04-2009
+
+Client Version : 2.0.7Noi dung patch :
+	- Event 30-4
+	- Mo item moi cho Ngu Cac
+	- Event cho JX Web
+
+Ngay nhan patch : 14h30 PM 22-04-2009
+Ngay up patch : 6h00 AM 26-04-2009
+
+Client Patch : 2.0.8
+
+Noi dung patch :
+	- Fix Bug Event 30-4
+        - Fix Log 2
+
+Ngay nhan patch : 11h PM 25-04-2009
+Ngay up patch : 6h00 AM 26-04-2009
+
+Client Patch : 2.0.8
+
+Noi dung patch :
+	Giam gia Lo Thuy 
+
+Ngay tao patch : 16h00 12/05/2009
+Ngay up patch : 6h00 AM 13/05/2009
+	
+Noi dung patch :
+	Fix dupe exp trong Thai Hu
+
+Ngay tao patch : 17h00 13/05/2009
+Ngay up patch : 6h00 AM 14/05/2009 
+Noi dung patch :
+        - Chinh Ngoi Sao Vang
+        - Fix Gameserver crash
+
+Ngay tao patch : 22-05-2009
+Ngay up patch : 6h00 AM 026-05-2009
+
+
+
+Noi dung patch :
+        - Fix Gameserver crash
+	- Giam gia Ngu Cac
+Ngay nhan patch : 27-05-2009
+Ngay up patch : 6h00 AM 29-05-2009
+
+
+
+Noi dung patch :
+        - Tat giam gia Ngu cac
+
+Ngay tao patch : 16h00 PM 28-05-2009
+Ngay up patch : 6h00 AM 01-06-2009
+
+
+
+Noi dung patch :
+	- Mo ngu cac
+
+Ngay tao patch : 21h00 11-06-2009
+Ngay up patch : 21h30 11-06-2009
+Noi dung patch :
+   - Thay doi thoi gian nhan hop qua may man tu 9h30 den 11h30.
+   - Gameserver tu dong reconnect voi Goddess.
+Ngay nhan patch : 17h00 PM 17-12-2008
+
+Ngay up patch : 06h00 AM 27-12-2008
+Noi dung patch :
+   - Tat danh quai roi vat pham hoat dong Giang Sinh.
+
+Ngay nhan patch : 17h00 PM 29-12-2008
+
+Ngay up patch : 06h00 AM 05-01-2009
+Noi dung patch :
+   - Phat thuong top dai cao thu tren 3 server : Dia Ho , Van Ho va Quyen Long.
+
+Ngay tao patch : 17h00 PM 29-12-2008
+
+Ngay up patch : 06h00 AM 02-01-2009
+
+Noi dung patch :
+	- Patch event Tet.
+
+Ngay nhan patch : 17h00 PM 09-01-2009
+Ngay up patch : 6h00 AM 16-01-2009
+Noi Dung Patch:
+	Patch di chuyen ruong Bang Hoi Tinh Anh
+	Thay doi logo
+Ngay tao Patch:
+	15h00 PM 04-02-2009
+Ngay up Patch:
+	6h00 AM 07-02-2009
+client version: 2.0.4
+Noi Dung Patch:
+	Patch ghi log Bang Hoi tinh anh
+Ngay tao Patch:
+	16h00 PM 09-02-2009
+Ngay up Patch:
+	6h00 AM 10-02-2009
+
+Noi dung patch :
+	- Phien ban moi CTDC
+	- Event Thang 6
+	- Promotion Ngoa Ho Tang Long
+
+Ngay nhan patch : 12-06-2009
+Ngay up patch : 6h00 AM 19-06-2009
+
+Client Patch : 3.0.0
+
+Noi dung patch :
+	- Phien ban moi CTDC
+	- Event Thang 6
+	- Promotion Ngoa Ho Tang Long
+	_ Fix bug giao dich + mua do ngu cac
+
+Ngay nhan patch : 12-06-2009
+Ngay up patch : 6h00 AM 19-06-2009
+
+Client Patch : 3.0.1
+Noi dung patch :
+	1.	Dong chuc nang dong ngu cac vao ban dem
+	2.	Dieu chinh giam do PK
+	3.	Doi Giao dien dang nhap
+	4.	Fix loi hien thi chieu thuc
+	5.	Fix bug hien thi vu khi cua Ngu Doc
+	6.	GM tang gioi han so nguoi den 1500
+	
+Ngay tao patch : 6h00 PM 10/7/2009
+Ngay up patch : 6h00 AM 17/7/2009
+
+Client Patch : 3.0.3
+
+Noi dung patch :
+	- Dieu chinh item IB shop thang 7 sau event
+Ngay tao patch : 10h00 AM 17/7/2009
+Ngay up patch : 6h00 AM 20/7/2009
+
+Client Patch : 3.0.2
+
+Noi dung patch :
+	- Mo rong event trong cay
+Ngay tao patch : 10h00 AM 18/7/2009
+Ngay up patch : 6h00 AM 21/7/2009
+
+Client Patch : 3.0.2
+
+Noi dung patch :
+	- Fix ghi log Thai Hu + Tang Kiem
+Ngay tao patch : 10h00 AM 22/7/2009
+Ngay up patch : 6h00 AM 23/7/2009
+
+Client Patch : 3.0.2
+
+Noi dung patch :
+	- Them Item IB shop
+	- Da Thao
+Ngay tao patch : 4h00 AM 28/7/2009
+Ngay up patch : 6h00 AM 31/7/2009
+
+Client Patch : 3.0.3
+
+Noi dung patch :
+	- Close NPC
+Ngay nhan patch : 5h00 PM 03/08/2009
+Ngay up patch : 6h00 AM /8/2009
+
+Client Patch : 3.0.3
+
+Noi dung patch :
+	- Event thang 8/2009
+Ngay nhan patch : 4h00 PM 03/08/2009
+Ngay up patch : 6h00 AM 7/8/2009
+
+Client Patch : 3.0.4
+
+Noi dung patch :
+	- Dieu chinh cam nang
+Ngay nhan patch : 4h00 PM 08/08/2009
+Ngay up patch : 6h00 AM 9/8/2009
+
+Client Patch : 3.0.5
+
+Noi dung patch :
+	- Gioi han 5g choi
+Ngay nhan patch : 1h00 PM 18/08/2009
+Ngay up patch : 6h00 AM /8/2009
+
+Client Patch : 3.0.6
+
+Noi dung patch :
+	- Update DaThao
+Ngay nhan patch : 1h00 PM 20/08/2009
+Ngay up patch : 6h00 AM 22/8/2009
+
+Client Patch : 3.0.6
+
+Noi dung patch :
+	- Change ty le nhan Hong bao
+
+Ngay tao patch : 10h00 AM 22/06/2009
+Ngay up patch : 6h00 AM 23/06/2009
+
+Client Patch : 3.0.1
+
+Noi dung patch :
+	- Update Chinh ty le cay bat tu + ib shop
+Ngay tao patch : 1h00 PM 25/08/2009
+Ngay up patch : 6h00 AM 28/8/2009
+
+Client Patch : 3.0.6
+
+Noi dung patch :
+	- Event Quoc Khanh
+Ngay tao patch : 1h00 PM 28/08/2009
+Ngay up patch : 6h00 AM 29/8/2009
+
+Client Patch : 3.0.6
+
+Noi dung patch :
+	- Dieu chinh tinh nang tang kiem
+	- Dieu chinh duoc diem
+	- Dieu chinh xac xuat cuong hoa trang bi
+	- Them vat pham moi
+	- Tinh nang uy thac trong cay
+	- Cap nhat dao cu BHTA 2
+Ngay tao patch : 1h00 PM 29/08/2009
+Ngay up patch : 6h00 AM 4/9/2009
+
+Client Patch : 3.0.7
+
+Noi dung patch :
+	- gia han thoi gian su dung hat giong
+	- loai bo phan thuong tui nguyen lieu
+	- mo lai NPC da thao
+	- dieu chinh phan thuong khi nop bat nha chung thu
+Ngay tao patch : 1h00 PM 7/09/2009
+Ngay up patch : 6h00 AM 8/09/2009
+
+Client Patch : 3.0.7
+
+Noi dung patch :
+	- mo lai Da Thao
+	- uy thac trong cay nhan bat nha chung thu
+Ngay tao patch : 1h00 PM 8/09/2009
+Ngay up patch : 6h00 AM 9/09/2009
+
+Client Patch : 3.0.7
+
+Noi dung patch :
+	- dieu chinhsSat thu duong
+	- dieu chinh da thao
+	- dieu chinh cam nang dai su kien
+	- ra mat he thong chuyen doi Tong Lieu 
+Ngay tao patch : 9h00 PM 9/09/2009
+Ngay up patch : 6h00 AM 10/09/2009
+
+Client Patch : 3.0.7
+
+Noi dung patch :
+	- Fix Ngu cac
+	- Thay doi dong chon doi trang bi Tong Lieu.
+	
+Ngay tao patch : 9h00 PM 10/09/2009
+Ngay up patch : 6h00 AM 11/09/2009
+
+Client Patch : 3.0.7
+
+Noi dung patch :
+	- Hoat dong trung thu
+	- Uy thac trong cay
+	- Dieu chinh ban nhuoc tam thu
+	- Dieu chinh Long,phung,ho,ung tu an
+	
+Ngay tao patch : 6h00 PM 11/09/2009
+Ngay up patch : 6h00 AM 18/09/2009
+
+Client Patch : 3.0.8
+
+Noi dung patch :
+	- Fix IB shop
+	- Phat thuong level 99
+	
+Ngay tao patch : 10h00 PM 20/09/2009
+Ngay up patch : 6h00 AM 22/09/2009
+
+Client Patch : 3.0.8
+
+Noi dung patch :
+	- Ghi log trong cay
+	- Gia han su dung nhan thuong trong giup cay BN
+	
+Ngay tao patch : 10h00 PM 23/09/2009
+Ngay up patch : 6h00 AM 24/09/2009
+
+Client Patch : 3.0.8
+
+Noi dung patch :
+	- fix bug danh qui Thai Hu 1 mau
+	- shop su mon khong ban dung nhan
+	- NPC Bang hoi tinh anh
+Ngay tao patch : 10h00 AM 24/06/2009
+Ngay up patch : 6h00 AM 25/06/2009
+
+Client Patch : 3.0.2
+
+Noi dung patch :
+	- IB shop
+
+	
+Ngay tao patch : 10h00 PM 24/09/2009
+Ngay up patch : 6h00 AM 25/09/2009
+
+Client Patch : 3.0.8
+
+Noi dung patch :
+	- Event thang 10
+
+	
+Ngay tao patch : 10h00 PM 25/09/2009
+Ngay up patch : 6h00 AM 28/09/2009
+
+Client Patch : 3.0.8
+
+Noi dung patch :
+	- Phat thuong bang hoi co nhan khi cao
+
+	
+Ngay tao patch : 10h00 PM 29/09/2009
+Ngay up patch : 6h00 AM 1/10/2009
+
+Client Patch : 3.0.8
+
+Noi dung patch :
+	- IB shop
+	- Close NPC Cong Da
+
+	
+Ngay tao patch : 10h00 PM 02/10/2009
+Ngay up patch : 6h00 AM 03/10/2009
+
+Client Patch : 3.0.8
+
+Noi dung patch :
+	- Update Event Thang 10
+
+	
+Ngay tao patch : 10h00 PM 05/10/2009
+Ngay up patch : 6h00 AM 06/10/2009
+
+Client Patch : 3.0.8
+
+Noi dung patch :
+	- Phat TALK
+
+	
+Ngay tao patch : 10h00 PM 07/10/2009
+Ngay up patch : 6h00 AM 09/10/2009
+
+Client Patch : 3.0.8
+
+Noi dung patch :
+	- Update Da Thao
+
+	
+Ngay tao patch : 10h00 PM 09/10/2009
+Ngay up patch : 6h00 AM 10/10/2009
+
+Client Patch : 3.0.8
+
+Noi dung patch :
+	- Chinh gia ngu cac
+Ngay tao patch : 2h00 AM 25/06/2009
+Ngay up patch : 6h00 AM 26/06/2009
+
+Client Patch : 3.0.2
+
+
+Noi dung patch :
+	- IB shop
+	
+Ngay tao patch : 10h00 PM 12/10/2009
+Ngay up patch : 6h00 AM 17/10/2009
+
+Client Patch : 3.0.9
+
+
+Noi dung patch :
+	- Keo dai event trung thu
+	- IB shop
+Ngay tao patch : 10h00 PM 21/10/2009
+Ngay up patch : 6h00 AM 25/10/2009
+
+Client Patch : 3.0.9
+
+
+Noi dung patch :
+	- Fix Keo dai event trung thu
+
+Ngay tao patch : 10h00 PM 26/10/2009
+Ngay up patch : 6h00 AM 27/10/2009
+
+Client Patch : 3.0.9
+
+
+Noi dung patch :
+	- Trao thuong Thien thach linh thach
+
+Ngay tao patch : 10h00 PM 27/10/2009
+Ngay up patch : 6h00 AM 28/10/2009
+
+Client Patch : 3.0.9
+
+
+Noi dung patch :
+	- Fix phat thuong thien thach linh thach
+
+Ngay tao patch : 10h00 PM 28/10/2009
+Ngay up patch : 06h00 AM 29/10/2009
+
+Client Patch : 3.0.9
+
+
+Noi dung patch :
+	- IB shop + Ma Bai
+
+Ngay tao patch : 10h00 PM 29/10/2009
+Ngay up patch : 6h00 AM 30/10/2009
+
+Client Patch : 3.0.9
+
+
+Noi dung patch :
+	- Event thang 11 + IB shop
+
+Ngay tao patch : 10h00 PM 4/11/2009
+Ngay up patch : 6h00 AM 06/11/2009
+
+Client Patch : 3.0.10
+
+Noi dung patch :
+	- Nhan Doi EXP cuoi tuan
+Ngay tao patch : 2h00 AM 26/06/2009
+Ngay up patch : 6h00 AM 27/06/2009
+
+Client Patch : 3.0.2
+
+Dieu chinh Event thang 11
+
+Ngay nhan patch : 10h00 AM 12/11/2009
+Ngay up patch : 6h00 AM 13/11/2009
+
+Client Version 3.0.11 
+Tien cu Quan ham
+
+Ngay nhan patch : 10h00 AM 12/11/2009
+Ngay up patch : 6h00 AM 14/11/2009
+
+Client Version 3.0.11 
+Noi dung: Phat thuong nhan sam
+
+Ngay nhan patch : 10h00 AM 16/11/2009
+Ngay up patch : 6h00 AM 17/11/2009
+
+Client Version 3.0.11 
+Noi dung: Edit Event Thang 11
+
+Ngay nhan patch : 10h00 AM 18/11/2009
+Ngay up patch : 6h00 AM 19/11/2009
+
+Client Version 3.0.11 
+Noi dung patch :
+	Chinh Can Khon phu
+
+Ngay tao patch : 14h00 19-11-2009
+Ngay up patch : 6h00 20-11-2009
+Noi dung patch :
+	- Dieu chinh danh vong + ti le
+Ngay tao patch : 2h00 AM 26/06/2009
+Ngay up patch : 6h00 AM 27/06/2009
+
+Client Patch : 3.0.2
+
+Noi dung patch :
+	- Off Nhan Doi EXP 3 cum server moi
+Ngay tao patch : 2h00 AM 26/06/2009
+Ngay up patch : 6h00 AM 29/06/2009
+
+Client Patch : 3.0.2
+
+Noi dung patch :
+	- Fix log Event Thang 6
+Ngay tao patch : 10h00 AM 7/7/2009
+Ngay up patch : 6h00 AM 8/7/2009
+
+Client Patch : 3.0.2
+
+Noi dung patch :
+	- IB shop thang 8
+Ngay tao patch : 10h00 AM 7/7/2009
+Ngay up patch : 6h00
+
+Client Patch : 3.0.2
+
+Patch fix Event Thang 11
+
+Ngay nhan patch : 20h00 PM 5/11/2009
+Ngay up patch : 6h00 AM 7/11/2009
+
+---------------------3.0.56--------------------------
+Noi dung patch:
+        Mo tinh nang Cong Thanh Chien
+
+Ngay nhan patch : 17h00 PM 20-11-2009
+Ngay up patch : 6h00 AM 27-11-2009
+
+Client patch 4.0.1
+
+---------------------4.0.1--------------------------
+Noi dung patch:
+        Edit Cam Nang Dai Su Kien
+
+Ngay nhan patch : 17h00 PM 30-11-2009
+Ngay up patch : 6h00 AM 1-12-2009
+
+Client patch 4.0.1
+
+---------------------4.0.2--------------------------
+Noi dung patch:
+        - Hoang Kim Lenh Bai
+	- Nhan Thuong Mai Man
+	- Edit Event Thang 11
+Ngay nhan patch : 17h00 PM 30-11-2009
+Ngay up patch : 6h00 AM 4-12-2009
+Client patch 4.0.1
+
+
+---------------------4.0.3--------------------------
+Noi dung patch:
+        - Tien Phong Lenh
+        - Hat giong nhan thuong HKLB
+        - Day ruong
+Ngay nhan patch : 17h00 PM 30-11-2009
+Ngay up patch : 6h00 AM 4-12-2009
+Client patch 4.0.1
+
+---------------------4.0.4--------------------------
+Noi dung patch:
+        - IB shop
+Ngay nhan patch : 10h00 PM 06-12-2009
+Ngay up patch : 6h00 AM 07-12-2009
+Client patch 4.0.1
+
+---------------------4.0.5--------------------------
+Noi dung patch:
+        - Fix Bach Tien Sinh
+	- Fix IB Bonus
+Ngay nhan patch : 10h00 PM 07-12-2009
+Ngay up patch : 6h00 AM 08-12-2009
+Client patch 4.0.1
+
+---------------------4.0.6--------------------------
+Noi dung patch:
+        - Top Tuong Phung
+Ngay nhan patch : 10h00 PM 08-12-2009
+Ngay up patch : 6h00 AM 11-12-2009
+Client patch 4.0.1
+
+---------------------4.0.7--------------------------
+Noi dung patch:
+        - Event Giang Sinh 2009
+Ngay nhan patch : 10h00 PM 11-12-2009
+Ngay up patch : 6h00 AM 18-12-2009
+Client patch 4.0.2
+
+---------------------4.0.8--------------------------
+Noi dung patch:
+        - Fix Event Giang Sinh 2009
+Ngay nhan patch : 8h00 PM 21-12-2009
+Ngay up patch : 6h00 AM 22-12-2009
+Client patch 4.0.2
+
+---------------------4.0.9--------------------------
+Noi dung patch:
+        - Close Phan Thuong Chiem Thanh
+        - Dieu chinh event Giang Sinh
+Ngay nhan patch : 8h00 PM 22-12-2009
+Ngay up patch : 6h00 AM 23-12-2009
+Client patch 4.0.2
+
+---------------------4.0.10---------------------------
+Noi dung Patch :
+        - Chuyen Sinh
+        
+        Ngay tao patch : 15h00 14-12-2009
+        Ngay up patch : 5h00 AM 24-12-2009
+Client patrch 4.0.2        
+
+---------------------4.0.11---------------------------
+Noi dung Patch :
+ 	- Fix Thit Nuong
+        Ngay tao patch : 7h00 AM 04-01-2010
+        Ngay up patch : 5h30 AM 05-01-2010
+Client patch 4.0.2
+
+---------------------4.0.12---------------------------
+Noi dung Patch :
+        - Dieu chinh CTC
+        Ngay tao patch : 9h00 AM 04-01-2010
+        Ngay up patch : 5h30 AM 06-01-2010
+Client patch 4.0.2
+
+---------------------4.0.13---------------------------
+Noi dung Patch :
+        - IB shop 08/01/2009
+        Ngay tao patch : 9h00 AM 07-01-2010
+        Ngay up patch : 5h30 AM 08-01-2010
+Client patch 4.0.2
+
+---------------------4.0.14---------------------------
+Noi dung Patch :
+        - Dieu Chinh_ Bao Ve Tai Nguyen
+        Ngay tao patch : 9h00 AM 11-01-2010
+        Ngay up patch : 5h30 AM 13-01-2010
+Client patch 4.0.2
+
+
+---------------------4.0.15---------------------------
+Noi dung Patch :
+        - Promotion - UpgradeWeapon
+        Ngay tao patch : 9h00 AM 12-01-2010
+        Ngay up patch : 5h30 AM 15-01-2010
+Client patch 4.0.2
+
+---------------------4.0.16---------------------------
+Noi dung Patch :
+        - Boss lien hoang
+        Ngay tao patch : 9h00 AM 15-01-2010
+        Ngay up patch : 5h30 AM 17-01-2010
+Client patch 4.0.2
+
+---------------------4.0.17---------------------------
+Noi dung Patch :
+        - Fix Dieu Chinh CNDSK
+        Ngay tao patch : 2h00 AM 17-01-2010
+        Ngay up patch : 5h30 AM 17-01-2010
+Client patch 4.0.2
+
+---------------------4.0.18---------------------------
+Noi dung Patch :
+        - Close IB shop + Event Giang Sinh
+        Ngay tao patch : 9h00 AM 15-01-2010
+        Ngay up patch : 5h30 AM 18-01-2010
+Client patch 4.0.2
+
+---------------------4.0.19---------------------------
+Noi dung Patch :
+        - Dieu Chinh Bao Ruong
+        Ngay tao patch : 9h00 AM 18-01-2010
+        Ngay up patch : 5h30 AM 20-01-2010
+Client patch 4.0.2
+
+---------------------4.0.20---------------------------
+Noi dung Patch :
+        - Upgrade_GeneralArmor
+        Ngay tao patch : 9h00 AM 20-01-2010
+        Ngay up patch : 5h30 AM 22-01-2010
+Client patch 4.0.3
+
+---------------------4.0.21---------------------------
+Noi dung Patch :
+        - Top HongUng
+        Ngay tao patch : 9h00 AM 21-01-2010
+        Ngay up patch : 14h00 AM 23-01-2010
+Client patch 4.0.3
+
+---------------------4.0.22---------------------------
+Noi dung Patch :
+        - FixTrungSinh_CuuThienVCD
+        Ngay tao patch : 17h00 25-01-2010
+        Ngay up patch : 6h00 26-01-2010
+Client patch 4.0.3
+
+---------------------4.0.23---------------------------
+Noi dung Patch :
+        - Event Tet
+        Ngay tao patch : 08h00 26-01-2010
+        Ngay up patch : 06h00 29-01-2010
+Client patch 4.0.4
+
+---------------------4.0.24---------------------------
+Noi dung Patch :
+        - Vip accept + fix bao li xi
+        Ngay tao patch : 08h00 29-01-2010
+        Ngay up patch : 06h00 30-01-2010
+Client patch 4.0.4
+
+---------------------4.0.25---------------------------
+Noi dung Patch :
+        - Create Tong
+        Ngay tao patch : 08h00 29-01-2010
+        Ngay up patch : 06h00 30-01-2010
+Client patch 4.0.4
+
+---------------------4.0.26---------------------------
+Noi dung Patch :
+        - Fix Ky Lan
+        Ngay tao patch : 08h00 30-01-2010
+        Ngay up patch : 06h00 1-02-2010
+Client patch 4.0.4
+
+---------------------4.0.27---------------------------
+Noi dung Patch :
+        - Vo Lam Su Gia
+        Ngay tao patch : 08h00 30-01-2010
+        Ngay up patch : 06h00 02-02-2010
+Client patch 4.0.4
+
+---------------------4.0.28---------------------------
+Noi dung Patch :
+        - Phat Thuong 48 Bang Hoi
+        Ngay tao patch : 08h00 03-02-2010
+        Ngay up patch : 06h00 04-02-2010
+Client patch 4.0.4
+
+---------------------4.0.29---------------------------
+Noi dung Patch :
+	- Exchange Yue
+        Ngay tao patch : 08h00 05-02-2010
+        Ngay up patch : 06h00 07-02-2010
+Client patch 4.0.4
+
+---------------------4.0.30---------------------------
+Noi dung Patch :
+        - Change rate Boss Phu The
+        Ngay tao patch : 17h00 09-02-2010
+        Ngay up patch : 00h00 09-02-2010
+Client patch 4.0.4
+
+---------------------4.0.31---------------------------
+Noi dung Patch :
+        - IB Shop + Den bu Ky Lan
+        Ngay tao patch : 14h00 10-02-2010
+        Ngay up patch : 06h00 12-02-2010
+Client patch 4.0.4
+
+---------------------4.0.32---------------------------
+Noi dung Patch : Hong Ung
+        - Create Tong
+        Ngay tao patch : 14h00 10-02-2010
+        Ngay up patch : 06h00 12-02-2010
+Client patch 4.0.4
+
+
+---------------------4.0.33---------------------------
+Noi dung Patch : 
+        - IB shop + Fix Cong Thanh + Cong trang Tong Lieu
+        Ngay tao patch : 14h00 24-02-2010
+        Ngay up patch : 06h00 26-02-2010
+Client patch 4.0.4
+
+
+---------------------4.0.34---------------------------
+Noi dung Patch :
+        - Dieu chinh thang 2
+        Ngay tao patch : 14h00 26-02-2010
+        Ngay up patch : 06h00 27-02-2010
+Client patch 4.0.4
+
+---------------------4.0.35---------------------------
+Noi dung Patch :
+        - Fix Khieu Chien Lenh
+        Ngay tao patch : 14h00 27-02-2010
+        Ngay up patch : 06h00 28-02-2010
+Client patch 4.0.4
+
+---------------------4.0.36---------------------------
+Noi dung Patch :
+        - Close event Tet + Dieu chinh bao toan cong trang
+        Ngay tao patch : 14h00 25-02-2010
+        Ngay up patch : 06h00 01-03-2010
+Client patch 4.0.4
+
+---------------------4.0.37---------------------------
+Noi dung Patch :
+        - Fix Bao Dam Cong Trang
+        Ngay tao patch : 11h00 04-03-2010
+        Ngay up patch : 17h00 04-03-2010
+Client patch 4.0.4
+
+---------------------4.0.38---------------------------
+Noi dung Patch :
+        - IB Shop + Event Thang 3 + Promotion
+        Ngay tao patch : 11h00 02-03-2010
+        Ngay up patch : 17h00 05-03-2010
+Client patch 4.0.5
+
+---------------------4.0.39---------------------------
+Noi dung Patch :
+        - Fix Event Thang 3
+        Ngay tao patch : 11h00 05-03-2010
+        Ngay up patch : 17h00 06-03-2010
+Client patch 4.0.5
+
+---------------------4.0.40---------------------------
+Noi dung Patch :
+        - Dieu chinh event thang 3(tt)
+        Ngay tao patch : 11h00 08-03-2010
+        Ngay up patch : 6h00 12-03-2010
+Client patch 4.0.5 
+
+---------------------4.0.41---------------------------
+Noi dung Patch :
+        - Phat thuong Promotion Tet
+        Ngay tao patch : 11h00 09-03-2010
+        Ngay up patch : 6h00 12-03-2010
+Client patch 4.0.5
+
+---------------------4.0.42---------------------------
+Noi dung Patch :
+        - Fix hao cam
+	- Dieu chinh thang 3 (2)
+	- IB shop
+        Ngay tao patch : 11h00 16-03-2010
+        Ngay up patch : 6h00 19-03-2010
+Client patch 4.0.5
+
+---------------------4.0.43a---------------------------
+Noi dung Patch :
+        - IB Shop
+        - Phat TALK
+        - Ca Do BHTA 3
+        Ngay tao patch : 11h00 19-03-2010
+        Ngay up patch : 6h00 24-03-2010
+Client patch 4.0.5
+
+---------------------4.0.44---------------------------
+Noi dung Patch :
+        - BHTA 3
+        Ngay tao patch : 11h00 22-03-2010
+        Ngay up patch : 6h00 30-03-2010
+Client patch 4.0.5
+
+---------------------4.0.45---------------------------
+Noi dung Patch :
+        - IB Shop
+	- Trao thuong HKLB
+        Ngay tao patch : 11h00 31-03-2010
+        Ngay up patch : 6h00 02-04-2010
+Client patch 4.0.6
+
+---------------------4.0.46---------------------------
+Noi dung Patch :
+        - Fix BHTA 3
+        - Thi dau 3/4/2010
+        Ngay tao patch : 11h00 31-03-2010
+        Ngay up patch : 6h00 02-04-2010
+Client patch 4.0.6
+
+---------------------4.0.47---------------------------
+Noi dung Patch :
+        - Reset Dau Hon
+        Ngay tao patch : 11h00 22-03-2010
+        Ngay up patch : 6h00 03-04-2010
+Client patch 4.0.6
+
+---------------------4.0.49---------------------------
+Noi dung Patch :
+        - IB Shop + Keo dai trao thuong HKLB
+        Ngay tao patch : 11h00 05-04-2010
+        Ngay up patch : 5h30 06-04-2010
+Client patch 4.0.6
+
+---------------------4.0.50---------------------------
+Noi dung Patch :
+        - PhatThuongDuDoanBHTA_1
+        Ngay tao patch : 11h00 05-04-2010
+        Ngay up patch : 23h30 06-04-2010
+Client patch 4.0.6
+
+---------------------4.0.51---------------------------
+Noi dung Patch :
+        - 20100407_VNG_DieuChinhSTD
+        Ngay tao patch : 11h00 07-04-2010
+        Ngay up patch : 5h30 09-04-2010
+Client patch 4.0.6
+
+---------------------4.0.53---------------------------
+Noi dung Patch :
+        - Fix Ngan Phieu Da Tau
+        Ngay tao patch : 11h00 13-04-2010
+        Ngay up patch : 13h30 13-04-2010
+Client patch 4.0.6
+
+---------------------4.0.53a---------------------------
+Noi dung Patch : 4 DT
+        - Thi dau BHTA3 ngay 17/04
+        Ngay tao patch : 11h00 13-04-2010
+        Ngay up patch : 16h30 13-04-2010
+Client patch 4.0.6
+
+---------------------4.0.54---------------------------
+Noi dung Patch : 
+        - 20100412_VNG_PhatThuongDuDoanBHTA_2
+        Ngay tao patch : 11h00 13-04-2010
+        Ngay up patch : 05h30 14-04-2010
+Client patch 4.0.6
+
+---------------------4.0.55---------------------------
+Noi dung Patch :
+        - 20100414_VNG_Close_VuiCungBHTA
+        Ngay tao patch : 11h00 14-04-2010
+        Ngay up patch : 05h30 15-04-2010
+Client patch 4.0.6
+
+---------------------4.0.56a---------------------------
+Noi dung Patch :
+        - Thi Dau BHTA3 18/04
+        Ngay tao patch : 11h00 17-04-2010
+        Ngay up patch : 05h30 17-04-2010
+Client patch 4.0.7
+
+---------------------4.0.56b---------------------------
+Noi dung Patch :
+        - Thi Dau BHTA3 24/04
+        Ngay tao patch : 11h00 22-04-2010
+        Ngay up patch : 16h30 17-04-2010
+Client patch 4.0.7
+
+---------------------4.0.57---------------------------
+Noi dung Patch :
+        - IB Shop + Phat thuong Vip + Can Khon Phu
+        Ngay tao patch : 11h00 21-04-2010
+        Ngay up patch : 5h30 23-04-2010
+Client patch 4.0.7
+
+---------------------4.0.58---------------------------
+Noi dung Patch :
+        - IB Shop + Dieu Chinh NV Bang Hoi
+        Ngay tao patch : 11h00 27-04-2010
+        Ngay up patch : 5h30 27-04-2010
+Client patch 4.0.7
+
+---------------------4.0.59---------------------------
+Noi dung Patch :
+        - IB Shop + Phat Thuong BHTA
+        Ngay tao patch : 11h00 05-05-2010
+        Ngay up patch : 5h30 07-05-2010
+Client patch 4.0.7
+
+---------------------4.0.60---------------------------
+Noi dung Patch :
+        - Edit W1 M5 + Phat Thuong BHTA
+        Ngay tao patch : 11h00 10-05-2010
+        Ngay up patch : 5h30 14-05-2010
+Client patch 4.0.7
+
+---------------------4.0.61---------------------------
+Noi dung Patch :
+        - IB Shop + Close hop thanh LinhThach + Nguyen Soai x2
+        Ngay tao patch : 11h00 10-05-2010
+        Ngay up patch : 5h30 17-05-2010
+Client patch 4.0.7
+
+---------------------4.0.62---------------------------
+Noi dung Patch :
+        - IB Shop + Edit W2M5
+        Ngay tao patch : 11h00 17-05-2010
+        Ngay up patch : 5h30 21-05-2010
+Client patch 4.0.7
+
+---------------------4.0.63---------------------------
+Noi dung Patch :
+        - Edit W4M5
+        Ngay tao patch : 11h00 24-05-2010
+        Ngay up patch : 5h30 26-05-2010
+Client patch 4.0.7
+
+---------------------4.0.64---------------------------
+Noi dung Patch :
+        - Close fruitbag
+        Ngay tao patch : 11h00 26-05-2010
+        Ngay up patch : 5h30 27-05-2010
+Client patch 4.0.7
+
+---------------------4.0.65---------------------------
+Noi dung Patch :
+        - Event Thang 6 + IB Shop
+        Ngay tao patch : 11h00 22-05-2010
+        Ngay up patch : 5h30 28-05-2010
+Client patch 4.0.8
+
+
+---------------------4.0.66---------------------------
+Noi dung Patch :
+        - Fix Event Thang 6
+        Ngay tao patch : 11h00 28-05-2010
+        Ngay up patch : 5h30 29-05-2010
+Client patch 4.0.8
+
+---------------------4.0.67---------------------------
+Noi dung Patch :
+        - IB Shop + Quoc Tich
+        Ngay tao patch : 11h00 31-05-2010
+        Ngay up patch : 5h30 4-06-2010
+Client patch 4.0.8
+
+---------------------4.0.68---------------------------
+Noi dung Patch :
+        - IB Shop + Edit W2M6
+        Ngay tao patch : 11h00 7-06-2010
+        Ngay up patch : 5h30 10-06-2010
+Client patch 4.0.8
+
+---------------------4.0.69---------------------------
+Noi dung Patch :
+        - IB Shop + Edit W3M6
+        Ngay tao patch : 11h00 15-06-2010
+        Ngay up patch : 5h30 18-06-2010
+Client patch 4.0.8
+
+---------------------5.0.2---------------------------
+Noi dung Patch :
+        - New version Tu Linh
+        Ngay tao patch : 11h00 16-06-2010
+        Ngay up patch : 23h30 21-06-2010
+Client patch 5.0.2
+
+---------------------5.0.3---------------------------
+Noi dung Patch :
+        - IB Shop
+        Ngay tao patch : 11h00 24-06-2010
+        Ngay up patch : 5h30 25-06-2010
+Client patch 5.0.2
+
+---------------------5.0.4---------------------------
+Noi dung Patch :
+        - Reborn
+        Ngay tao patch : 11h00 24-06-2010
+        Ngay up patch : 23h59 26-06-2010
+Client patch 5.0.2
+
+---------------------5.0.5---------------------------
+Noi dung Patch :
+        - Edit firework
+        Ngay tao patch : 11h00 26-06-2010
+        Ngay up patch : 05h30 27-06-2010
+Client patch 5.0.2
+
+---------------------5.0.6---------------------------
+Noi dung Patch :
+        - Reborn 2+ Ngoai Trang uan linh
+        Ngay tao patch : 11h00 23-06-2010
+        Ngay up patch : 05h30 28-06-2010
+Client patch 5.0.2
+
+---------------------5.0.7---------------------------
+Noi dung Patch :
+        - IB Shop + Promotion change zing xu
+        Ngay tao patch : 11h00 29-06-2010
+        Ngay up patch : 05h30 02-07-2010
+Client patch 5.0.2
+
+---------------------5.0.8---------------------------
+Noi dung Patch :
+        - Close Marry
+        Ngay tao patch : 11h00 01-07-2010
+        Ngay up patch : 05h30 02-07-2010
+Client patch 5.0.2
+
+---------------------5.0.9---------------------------
+Noi dung Patch :
+        - IB Shop + Client Event Thang 7
+        Ngay tao patch : 11h00 05-07-2010
+        Ngay up patch : 05h30 06-07-2010
+Client patch 5.0.3
+
+---------------------5.0.10---------------------------
+Noi dung Patch :
+        - Event Thang 7 + Edit W1M7
+        Ngay tao patch : 11h00 03-07-2010
+        Ngay up patch : 05h30 07-07-2010
+Client patch 5.0.3
+
+---------------------5.0.11---------------------------
+Noi dung Patch :
+        - Event Thang 7 + IB Shop
+        Ngay tao patch : 11h00 08-07-2010
+        Ngay up patch : 05h30 09-07-2010
+Client patch 5.0.3
+
+---------------------5.0.12---------------------------
+Noi dung Patch :
+        - Them Nguyen Lieu T7
+        Ngay tao patch : 11h00 09-07-2010
+        Ngay up patch : 05h30 10-07-2010
+Client patch 5.0.3
+
+---------------------5.0.13---------------------------
+Noi dung Patch :
+        - HKLB V2
+        Ngay tao patch : 11h00 10-05-2010
+        Ngay up patch : 05h30 12-07-2010
+Client patch 5.0.3
+
+---------------------5.0.14---------------------------
+Noi dung Patch :
+        - Merge Server ID
+        Ngay tao patch : 11h00 12-07-2010
+        Ngay up patch : 05h30 13-07-2010
+Client patch 5.0.3
+
+---------------------5.0.15---------------------------
+Noi dung Patch :
+        - Modify HKLB V2
+        Ngay tao patch : 11h00 14-07-2010
+        Ngay up patch : 05h30 15-07-2010
+Client patch 5.0.3
+
+---------------------5.0.16---------------------------
+Noi dung Patch :
+        - Update 2ndWeekJuly +IB Shop + Edit HKLB V2
+        Ngay tao patch : 11h00 15-07-2010
+        Ngay up patch : 05h30 16-07-2010
+Client patch 5.0.3
+
+---------------------5.0.17---------------------------
+Noi dung Patch : Hoang Ung
+        - Truy cong lanh thuong + close Tong
+        Ngay tao patch : 11h00 14-07-2010
+        Ngay up patch : 15h00 16-07-2010
+Client patch 5.0.3
+
+---------------------5.0.18---------------------------
+Noi dung Patch : 
+        - Boss TNC + Vinh Danh
+        Ngay tao patch : 11h00 16-07-2010
+        Ngay up patch : 05h30 17-07-2010
+Client patch 5.0.3
+
+---------------------5.0.19---------------------------
+Noi dung Patch :
+        - Vo Lam Chien Huu
+        Ngay tao patch : 11h00 17-07-2010
+        Ngay up patch : 05h30 18-07-2010
+Client patch 5.0.3
+
+---------------------5.0.20---------------------------
+Noi dung Patch :
+        - IB Shop + Edit W3M7 + Du Doan Tong Lieu
+        Ngay tao patch : 11h00 20-07-2010
+        Ngay up patch : 05h30 23-07-2010
+Client patch 5.0.3
+
+---------------------5.0.21---------------------------
+Noi dung Patch :
+        - Edit Ly Nguyen khanh
+        Ngay tao patch : 11h00 26-07-2010
+        Ngay up patch : 05h30 27-07-2010
+Client patch 5.0.3
+
+---------------------5.0.22---------------------------
+Noi dung Patch :
+        - Truyen cong thuat
+        Ngay tao patch : 11h00 26-07-2010
+        Ngay up patch : 05h30 30-07-2010
+Client patch 5.0.3
+
+---------------------5.0.23---------------------------
+Noi dung Patch :
+        - Fix HKLB
+        Ngay tao patch : 11h00 31-07-2010
+        Ngay up patch : 05h30 02-08-2010
+Client patch 5.0.3
+
+---------------------5.0.24---------------------------
+Noi dung Patch :
+        - Edit W1M8
+        Ngay tao patch : 11h00 02-08-2010
+        Ngay up patch : 05h30 03-08-2010
+Client patch 5.0.3
+
+---------------------5.0.24---------------------------
+Noi dung Patch :
+        - Phao Hoa + Duong Sinh Thuat
+        Ngay tao patch : 11h00 03-08-2010
+        Ngay up patch : 05h30 06-08-2010
+Client patch 5.0.3
+
+---------------------5.0.24---------------------------
+Noi dung Patch :
+        - Close Ket Hon + Close Tong
+        Ngay tao patch : 11h00 03-08-2010
+        Ngay up patch : 05h30 06-08-2010
+Client patch 5.0.3
+
+
+---------------------5.0.25---------------------------
+Noi dung Patch :
+        - Edit Phao Hoa
+        Ngay tao patch : 11h00 06-08-2010
+        Ngay up patch : 05h30 07-08-2010
+Client patch 5.0.3
+
+
+---------------------5.0.26---------------------------
+Noi dung Patch :
+        - IB Shop
+        Ngay tao patch : 11h00 06-08-2010
+        Ngay up patch : 05h30 09-08-2010
+Client patch 5.0.3
+
+
+---------------------5.0.27---------------------------
+Noi dung Patch :
+        - Merge Chau Long + Vuong Long = Tien Phung
+        Ngay tao patch : 11h00 10-08-2010
+        Ngay up patch : 02h00 11-08-2010
+Client patch 5.0.3
+
+---------------------5.0.28---------------------------
+Noi dung Patch :
+        - Merge Loi Ho + Tran Ho, Phong Ho + Van Ho
+        Ngay tao patch : 11h00 11-08-2010
+        Ngay up patch : 02h00 12-08-2010
+Client patch 5.0.3
+
+---------------------5.0.29---------------------------
+Noi dung Patch :
+        - Event Thang 8 + New Interface + Limit 5h
+        Ngay tao patch : 11h00 9-08-2010
+        Ngay up patch : 05h30 13-08-2010
+Client patch 5.0.4
+
+---------------------5.0.30---------------------------
+Noi dung Patch :
+        - Them nguyen lieu + edit 5h
+        Ngay tao patch : 11h00 13-08-2010
+        Ngay up patch : 05h30 14-08-2010
+Client patch 5.0.4
+
+---------------------5.0.31---------------------------
+Noi dung Patch :
+        - JX2 IDol
+        Ngay tao patch : 11h00 13-08-2010
+        Ngay up patch : 05h30 16-08-2010
+Client patch 5.0.4
+
+
+---------------------5.0.31---------------------------
+Noi dung Patch :
+        - JX2 IDol Hoang Ung
+        Ngay tao patch : 11h00 13-08-2010
+        Ngay up patch : 05h30 16-08-2010
+Client patch 5.0.4
+
+---------------------5.0.32---------------------------
+Noi dung Patch :
+        - Fix new interface + reset task
+        Ngay tao patch : 11h00 13-08-2010
+        Ngay up patch : 05h30 17-08-2010
+Client patch 5.0.5
+
+---------------------5.0.33---------------------------
+Noi dung Patch :
+        - Edit server ID
+        Ngay tao patch : 11h00 17-08-2010
+        Ngay up patch : 05h30 18-08-2010
+Client patch 5.0.5
+
+---------------------5.0.34---------------------------
+Noi dung Patch :
+        - Fix Hoang Ung
+        Ngay tao patch : 11h00 18-08-2010
+        Ngay up patch : 13h00 18-08-2010
+Client patch 5.0.5
+
+---------------------5.0.35---------------------------
+Noi dung Patch :
+        - Pet + Edit W3M8
+        Ngay tao patch : 11h00 18-08-2010
+        Ngay up patch : 13h00 20-08-2010
+Client patch 5.0.5
+---------------------5.0.35---------------------------
+Noi dung Patch :
+        - Open Tong + Marry
+        Ngay tao patch : 11h00 18-08-2010
+        Ngay up patch : 13h00 20-08-2010
+Client patch 5.0.5
+
+---------------------5.0.36---------------------------
+Noi dung Patch :
+        - Dieu chinh BNB
+        Ngay tao patch : 11h00 20-08-2010
+        Ngay up patch : 13h00 21-08-2010
+Client patch 5.0.5
+
+---------------------5.0.37---------------------------
+Noi dung Patch :
+        - Fix New Interface + chat filter
+        Ngay Nhan patch : 11h00 20-08-2010
+        Ngay up patch : 05h30 22-08-2010
+Client patch 5.0.6
+
+---------------------5.0.38---------------------------
+Noi dung Patch :
+        - Duong Sinh 3,4 + Edit W4M8 + IB Shop
+        Ngay Nhan patch : 11h00 24-08-2010
+        Ngay up patch : 05h30 27-08-2010
+Client patch:5.0.6
+
+---------------------5.0.39---------------------------
+Noi dung Patch :
+        - Nang cap trang bi
+        Ngay Nhan patch : 11h00 26-08-2010
+        Ngay up patch : 05h30 29-08-2010
+Client patch:5.0.6
+
+---------------------5.0.40---------------------------
+Noi dung Patch :
+        - Edit W1M9
+        Ngay Nhan patch : 11h00 30-08-2010
+        Ngay up patch : 05h30 01-09-2010
+Client patch:5.0.7
+
+---------------------5.0.41---------------------------
+Noi dung Patch :
+        - Edit W2M9
+        Ngay Nhan patch : 11h00 07-09-2010
+        Ngay up patch : 05h30 09-09-2010
+Client patch:5.0.7
+
+---------------------5.0.42---------------------------
+Noi dung Patch :
+        - Fix tui tra cay
+        Ngay Nhan patch : 07h15 07-09-2010
+        Ngay up patch : 07h45 09-09-2010
+Client patch:5.0.7
+
+---------------------5.0.43---------------------------
+Noi dung Patch :
+        - Fix Sat Thu Duong
+        Ngay Nhan patch : 05h00 09-09-2010
+        Ngay up patch : 05h45 09-09-2010
+Client patch:5.0.7
+
+---------------------5.0.44---------------------------
+Noi dung Patch :
+        - IB Shop 
+        Ngay Nhan patch : 05h00 08-09-2010 
+        Ngay up patch : 05h45 13-09-2010
+Client patch:5.0.7
+
+---------------------5.0.45---------------------------
+Noi dung Patch :
+        - IB Shop + Event Trung Thu
+        Ngay Nhan patch : 11h00 13-09-2010
+        Ngay up patch : 05h45 17-09-2010
+Client patch:5.0.8
+
+---------------------5.0.46--------------------------
+Noi dung Patch :
+        - Bo Sung Event
+        Ngay Nhan patch : 11h00 17-09-2010
+        Ngay up patch : 05h45 18-09-2010
+Client patch:5.0.8
+
+---------------------5.0.47--------------------------
+Noi dung Patch :
+        - IB Shop
+        Ngay Nhan patch : 11h00 17-09-2010
+        Ngay up patch : 05h45 18-09-2010
+Client patch:5.0.8
+
+---------------------5.0.48--------------------------
+Noi dung Patch :
+        - Bo Sung Log
+        Ngay Nhan patch : 11h00 20-09-2010
+        Ngay up patch : 05h45 22-09-2010
+Client patch:5.0.8
+
+---------------------5.0.49--------------------------
+Noi dung Patch :
+        - Edir W3M9
+        Ngay Nhan patch : 11h00 22-09-2010
+        Ngay up patch : 05h45 24-09-2010
+Client patch:5.0.8
+
+---------------------5.0.50--------------------------
+Noi dung Patch :
+        - Sell code HKLB
+        Ngay Nhan patch : 11h00 24-09-2010
+        Ngay up patch : 05h45 28-09-2010
+Client patch:5.0.8
+
+---------------------5.0.51--------------------------
+Noi dung Patch :
+        - Cuoc Chien Hoa Hong
+        Ngay Nhan patch : 11h00 27-09-2010
+        Ngay up patch : 05h45 29-09-2010
+Client patch:5.0.8
+
+---------------------5.0.52--------------------------
+Noi dung Patch :
+        - Edit Sell code HKLB
+        Ngay Nhan patch : 11h00 29-09-2010
+        Ngay up patch : 05h45 30-09-2010
+Client patch:5.0.8
+
+---------------------5.0.53--------------------------
+Noi dung Patch :
+        - Doi Hoa Hong
+        Ngay Nhan patch : 11h00 04-10-2010
+        Ngay up patch : 05h45 05-10-2010
+Client patch:5.0.9
+
+---------------------5.0.54--------------------------
+Noi dung Patch :
+        - Edit W1M10
+        Ngay Nhan patch : 11h00 04-10-2010
+        Ngay up patch : 05h45 08-10-2010
+Client patch:5.0.10
+
+---------------------5.0.55--------------------------
+Noi dung Patch :
+        - Close Nuong banh
+        Ngay Nhan patch : 11h20 08-10-2010
+        Ngay up patch : 11h40 08-10-2010
+Client patch:5.0.10
+
+---------------------5.0.56--------------------------
+Noi dung Patch :
+        - Open Nuong banh
+        Ngay Nhan patch : 11h20 08-10-2010
+        Ngay up patch : 05h40 14-10-2010
+Client patch:5.0.10
+
+---------------------5.0.57--------------------------
+Noi dung Patch :
+        - Bo sung phat thuong hoa hong
+        - Fix Bug Giao Dich
+        Ngay Nhan patch : 11h20 15-10-2010
+        Ngay up patch : 05h40 16-10-2010
+Client patch:5.0.10
+
+---------------------5.0.58--------------------------
+Noi dung Patch :
+        - Chinh sua tuan 3 thang 10
+	- Update IBShop
+        Ngay Nhan patch : 11h20 18-10-2010
+        Ngay up patch : 05h40 22-10-2010
+Client patch:5.0.10
+
+---------------------5.0.59--------------------------
+Noi dung Patch :
+        - Cap nhat phan thuong trong Hat Giong
+	- Update IBShop
+        Ngay Nhan patch : 11h20 22-10-2010
+        Ngay up patch : 05h40 23-10-2010
+Client patch:5.0.10
+
+---------------------5.0.60--------------------------
+Noi dung Patch :
+        - Cap nhat tuan 4 thang 10
+        Ngay Nhan patch : 11h20 25-10-2010
+        Ngay up patch : 05h40 26-10-2010
+Client patch:5.0.10
+
+---------------------5.0.61--------------------------
+Noi dung Patch :
+        - IB Shop
+        Ngay Nhan patch : 11h20 26-10-2010
+        Ngay up patch : 00h00 27-10-2010
+Client patch:5.0.10
+
+---------------------5.0.62--------------------------
+Noi dung Patch :
+	  - Event Thang 11
+        - IB Shop
+        Ngay Nhan patch : 11h20 26-10-2010
+        Ngay up patch : 00h00 27-10-2010
+Client patch:5.0.11
+
+---------------------5.0.63--------------------------
+Noi dung Patch :
+        - Fix Giao Dich
+	- Tinh Anh Lenh Ky
+        Ngay Nhan patch : 15h20 28-10-2010
+        Ngay up patch : 06h00 30-10-2010
+Client patch:5.0.12
+
+---------------------5.0.64--------------------------
+Noi dung Patch :
+	- Fix HKLB
+        Ngay Nhan patch : 15h20 28-10-2010
+        Ngay up patch : 06h00 30-10-2010
+Client patch:5.0.12
+
+---------------------5.0.65--------------------------
+Noi dung Patch :
+	- Cap nhat tuan 1 thang 11/2010
+        Ngay Nhan patch : 15h20 03-10-2010
+        Ngay up patch : 06h00 05-10-2010
+Client patch:5.0.12
+
+---------------------5.0.66--------------------------
+Noi dung Patch :
+        - Nhan thuong thi dau BHTA
+        Ngay Nhan patch : 15h20 06-11-2010
+        Ngay up patch : 06h00 06-11-2010
+Client patch:5.0.12
+
+---------------------5.0.67--------------------------
+Noi dung Patch :
+        - Edit log event thang 11/2010
+        Ngay Nhan patch : 15h20 08-11-2010
+        Ngay up patch : 06h00 09-11-2010
+Client patch:5.0.12
+
+---------------------5.0.68--------------------------
+Noi dung Patch :
+        - Edit log event thang 11/2010
+        Ngay Nhan patch : 15h20 08-11-2010
+        Ngay up patch : 06h00 11-11-2010
+Client patch:5.0.12
+
+---------------------5.0.69--------------------------
+Noi dung Patch :
+        - Cap nhat W2M11
+	- Cap nhat IBShop
+        Ngay Nhan patch : 15h20 09-11-2010
+        Ngay up patch : 06h00 12-11-2010
+Client patch: 5.0.12
+
+---------------------5.0.70--------------------------
+Noi dung Patch :
+        - Dieu Chinh cap nhat W2M11	
+        Ngay Nhan patch : 15h20 09-11-2010
+        Ngay up patch : 06h00 13-11-2010
+Client patch: 5.0.12
+
+---------------------5.0.71--------------------------
+Noi dung Patch :
+        - Nhan thuong du doan BHTA4
+        Ngay Nhan patch : 15h20 11-11-2010
+        Ngay up patch : 06h00 14-11-2010
+Client patch:5.0.12
+
+---------------------5.0.72--------------------------
+Noi dung Patch :
+        - Update W3M11
+        Ngay Nhan patch : 15h20 17-11-2010
+        Ngay up patch : 06h00 19-11-2010
+Client patch:5.0.12
+
+---------------------5.0.73--------------------------
+Noi dung Patch :
+        - Ban HKLB ingame
+        Ngay Nhan patch : 15h20 18-11-2010
+        Ngay up patch : 06h00 20-11-2010
+Client patch:5.0.12
+
+---------------------5.0.74--------------------------
+Noi dung Patch :
+        - Den bu BHTA4
+        Ngay Nhan patch : 15h20 23-11-2010
+        Ngay up patch : 06h00 24-11-2010
+Client patch:5.0.12
+
+---------------------5.0.75--------------------------
+Noi dung Patch :
+        - Trong cay Bat Nha Nho + Trong hat giong
+        Ngay Nhan patch : 15h20 22-11-2010
+        Ngay up patch : 06h00 26-11-2010
+Client patch:5.0.12
+
+---------------------5.0.76--------------------------
+Noi dung Patch :
+        - Phat thuong exp chung ket BHTA4
+        Ngay Nhan patch : 15h20 26-11-2010
+        Ngay up patch : 06h00 27-11-2010
+Client patch:5.0.12
+
+
+---------------------5.0.77--------------------------
+Noi dung Patch :
+        - Fix dap trung BHD
+        Ngay Nhan patch : 15h20 26-11-2010
+        Ngay up patch : 06h00 29-11-2010
+Client patch:5.0.12
+
+---------------------5.0.78--------------------------
+Noi dung Patch :
+        - Edit gia ban HKLB
+        Ngay Nhan patch : 15h20 29-11-2010
+        Ngay up patch : 06h00 01-12-2010
+Client patch:5.0.12
+
+---------------------5.0.79--------------------------
+Noi dung Patch :
+        - Edit log
+        Ngay Nhan patch : 15h20 01-12-2010
+        Ngay up patch : 06h00 02-12-2010
+Client patch:5.0.12
+
+---------------------5.0.80--------------------------
+Noi dung Patch :
+        - Vo Lam Bao Hap
+        Ngay Nhan patch : 15h20 2-12-2010
+        Ngay up patch : 06h00 03-12-2010 
+Client patch: 6.0.0
+
+---------------------6.0.0--------------------------
+Noi dung Patch :
+        - Thit nuong , Npc Bach tien sinh
+        Ngay Nhan patch : 15h20 1-12-2010
+        Ngay up patch : 06h00 02-12-2010
+Client patch: 6.0.0
+
+---------------------6.0.1--------------------------
+Noi dung Patch :
+        - Edit IBshop
+        Ngay Nhan patch : 15h20 03-12-2010
+        Ngay up patch : 06h00 06-12-2010
+Client patch: 6.0.0
+
+---------------------6.0.2--------------------------
+Noi dung Patch :
+        - Bo sung Ban Thuoc
+        Ngay Nhan patch : 15h20 06-12-2010
+        Ngay up patch : 06h00 07-12-2010
+Client patch: 6.0.0
+
+---------------------6.0.3--------------------------
+Noi dung Patch :
+        - Mo lai Long Ho Su
+        Ngay Nhan patch : 15h20 07-12-2010
+        Ngay up patch : 06h00 08-12-2010
+Client patch: 6.0.0
+
+---------------------6.0.4--------------------------
+Noi dung Patch :
+        - Event Giang Sinh, Vuot Ai Pet
+        Ngay Nhan patch : 15h20 06-12-2010
+        Ngay up patch : 06h00 10-12-2010
+Client patch: 6.0.1
+
+---------------------6.0.5--------------------------
+Noi dung Patch :
+        - Edit tuan 1 thang 12/2010
+        Ngay Nhan patch : 15h20 10-12-2010
+        Ngay up patch : 06h00 11-12-2010
+Client patch: 6.0.1
+
+---------------------6.0.6--------------------------
+Noi dung Patch :
+        - Ngoi sao may man
+        Ngay Nhan patch : 9h20 15-12-2010
+        Ngay up patch : 06h00 16-12-2010
+Client patch: 6.0.2
+
+---------------------6.0.7--------------------------
+Noi dung Patch :
+        - NSMN bo xung, FixEventGiangSinh, IBshop
+        Ngay Nhan patch : 9h20 15-12-2010
+        Ngay up patch : 06h00 17-12-2010
+Client patch: 6.0.2
+
+---------------------6.0.8--------------------------
+Noi dung Patch :
+        - Nhan thuong du doan BHTA4 bo sung
+        Ngay Nhan patch : 9h20 19-12-2010
+        Ngay up patch : 06h00 20-12-2010
+Client patch: 6.0.2
+
+---------------------6.0.9--------------------------
+Noi dung Patch :
+        - Bo sung list HKB
+        Ngay Nhan patch : 9h20 19-12-2010
+        Ngay up patch : 06h00 20-12-2010
+Client patch: 6.0.2
+
+---------------------6.0.10--------------------------
+Noi dung Patch :
+        - Mo NPC ban HKLB, bo sung log
+        Ngay Nhan patch : 9h20 21-12-2010
+        Ngay up patch : 06h00 22-12-2010
+Client patch: 6.0.2
+
+---------------------6.0.11--------------------------
+Noi dung Patch :
+        - Update W3M12
+        Ngay Nhan patch : 9h20 23-12-2010
+        Ngay up patch : 06h00 24-12-2010
+Client patch: 6.0.2
+
+--------------------6.0.12--------------------------
+Noi dung Patch :
+        - Update fix event T12
+        Ngay Nhan patch : 9h20 24-12-2010
+        Ngay up patch : 15h00 24-12-2010
+Client patch: 6.0.2
+
+--------------------6.0.13--------------------------
+Noi dung Patch :
+        - Close update cong trang
+        Ngay Nhan patch : 9h20 24-12-2010
+        Ngay up patch : 06h00 25-12-2010
+Client patch: 6.0.2
+
+--------------------6.0.14-------------------------
+Noi dung Patch :
+        - Promotion Platform
+        Ngay Nhan patch : 9h20 24-12-2010
+        Ngay up patch : 06h00 25-12-2010
+Client patch: 6.0.2
+
+--------------------6.0.15-------------------------
+Noi dung Patch :
+        - Bo sung Promotion Platform
+        Ngay Nhan patch : 9h20 28-12-2010
+        Ngay up patch : 06h00 29-12-2010
+Client patch: 6.0.3
+
+--------------------6.0.16-------------------------
+Noi dung Patch :
+        - Reset Quan cong
+        Ngay Nhan patch : 9h20 29-12-2010
+        Ngay up patch : 06h00 30-12-2010
+Client patch: 6.0.4
+
+--------------------6.0.17-------------------------
+Noi dung Patch :
+        - Edit trong cay Tu Linh
+        Ngay Nhan patch : 9h20 30-12-2010
+        Ngay up patch : 06h00 31-12-2010
+Client patch: 6.0.4
+
+--------------------6.0.18-------------------------
+Noi dung Patch :
+        - Den bu Quan Cong, update ban HKLB
+        Ngay Nhan patch : 9h20 31-12-2010
+        Ngay up patch : 06h00 1-1-2011
+Client patch: 6.0.4
+
+--------------------6.0.19-------------------------
+Noi dung Patch :
+        - Cap nhat tuan 1 T1/2011
+        Ngay Nhan patch : 9h20 04-01-2011
+        Ngay up patch : 06h00 05-01-2011
+Client patch: 6.0.4
+
+--------------------6.0.20-------------------------
+Noi dung Patch :
+        - Edit nem tuyet, chuan bi Merge Server
+        Ngay Nhan patch : 9h20 05-01-2011
+        Ngay up patch : 06h00 06-01-2011
+Client patch: 6.0.4 
+
+-------------------6.0.21-------------------------
+Noi dung Patch :
+        - Nang cap Thien Chi Tang Kiem
+        Ngay Nhan patch : 9h20 05-01-2011
+        Ngay up patch : 06h00 07-01-2011
+Client patch: 6.0.4 
+
+-------------------6.0.22-------------------------
+Noi dung Patch :
+        - Nop Cui Kho
+        Ngay Nhan patch : 9h20 07-01-2011
+        Ngay up patch : 06h00 10-01-2011
+Client patch: 6.0.4 
+
+------------------6.0.23-------------------------
+Noi dung Patch :
+        - Sua loi reset
+        Ngay Nhan patch : 9h20 10-01-2011
+        Ngay up patch : 06h00 11-01-2011
+Client patch: 6.0.4 
+
+------------------6.0.24-------------------------
+Noi dung Patch :
+        - Update server Tan Phung, merge server
+        Ngay Nhan patch : 9h20 12-01-2011
+        Ngay up patch : 06h00 13-01-2011
+Client patch: 6.0.5
+
+-------------------6.0.25-------------------------
+Noi dung Patch :
+        - Event Tet 2011, IBShop
+        Ngay Nhan patch : 9h20 10-01-2011
+        Ngay up patch : 06h00 14-01-2011
+Client patch: 6.0.6 
+
+-------------------6.0.26-------------------------
+Noi dung Patch :
+        - Den bu quan cong, update Event Tet
+        Ngay Nhan patch : 9h20 14-01-2011
+        Ngay up patch : 06h00 15-01-2011
+Client patch: 6.0.7
+
+------------------6.0.27-------------------------
+Noi dung Patch :
+        - Update golden code server Tan Phung
+        Ngay Nhan patch : 9h20 14-01-2011
+        Ngay up patch : 06h00 17-01-2011
+Client patch: 6.0.7
+
+------------------6.0.28-------------------------
+Noi dung Patch :
+        - Mo rong Ngoi Sao May Man
+        Ngay Nhan patch : 9h20 17-01-2011
+        Ngay up patch : 06h00 18-01-2011
+Client patch: 6.0.7
+
+------------------6.0.29-------------------------
+Noi dung Patch :
+        - Thay task Ngoi Sao May Man
+        Ngay Nhan patch : 9h20 24-01-2011
+        Ngay up patch : 06h00 26-01-2011
+Client patch: 6.0.7
+
+------------------6.0.30-------------------------
+Noi dung Patch :
+        - Fix giao dich
+        Ngay Nhan patch : 9h20 26-01-2011
+        Ngay up patch : 06h00 27-01-2011
+Client patch: 6.0.7
+
+------------------6.0.31-------------------------
+Noi dung Patch :
+        - Open functions merged servers
+        Ngay Nhan patch : 9h20 27-01-2011
+        Ngay up patch : 06h00 28-01-2011
+Client patch: 6.0.7
+
+------------------6.0.32-------------------------
+Noi dung Patch :
+        - Mo rong giam gia HKLB
+        Ngay Nhan patch : 9h20 11-02-2011
+        Ngay up patch : 06h00 13-02-2011
+Client patch: 6.0.7
+
+------------------6.0.33-------------------------
+Noi dung Patch :
+        - Valentine 2011
+        Ngay Nhan patch : 9h20 12-02-2011
+        Ngay up patch : 06h00 14-02-2011
+Client patch: 6.0.7
+
+------------------6.0.34-------------------------
+Noi dung Patch :
+        - Bo sung nang cap vu khi
+        Ngay Nhan patch : 9h20 17-02-2011
+        Ngay up patch : 06h00 18-02-2011
+Client patch: 6.0.7
+
+-----------------6.0.35-------------------------
+Noi dung Patch :
+        - Update pet info
+        Ngay Nhan patch : 9h20 18-02-2011
+        Ngay up patch : 06h00 19-02-2011
+Client patch: 6.0.7
+
+------------------6.0.36-------------------------
+Noi dung Patch :
+        - Dong 2 item : Nu hoa va Hoa mai
+        Ngay tao patch : 16h00 18-02-2011
+        Ngay up patch : 06h00 21-02-2011
+Client patch : 6.0.7
+
+------------------6.0.37-------------------------
+Noi dung Patch :
+        - Event thang 3, IBshop
+        Ngay Nhan patch : 9h20 17-02-2011
+        Ngay up patch : 06h00 25-02-2011
+Client patch: 6.0.8
+
+------------------6.0.38-------------------------
+Noi dung Patch :
+        - Open tinh nang server Tan Phung
+        Ngay Nhan patch : 9h20 25-02-2011
+        Ngay up patch : 06h00 27-02-2011
+Client patch: 6.0.8
+
+------------------6.0.39-------------------------
+Noi dung Patch :
+        - Mo rong Ngoi Sao May Man
+        Ngay Nhan patch : 9h20 28-02-2011
+        Ngay up patch : 06h00 01-03-2011
+Client patch: 6.0.8
+
+------------------6.0.40-------------------------
+Noi dung Patch :
+        - Cap nhat tuan 1-3, Log key item
+        Ngay Nhan patch : 9h20 01-03-2011
+        Ngay up patch : 06h00 04-03-2011
+Client patch: 6.0.8
+
+------------------6.0.41-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Mo them map VA BDH                                                                                         
+        Ngay tao patch : 9h20 05-03-2011                                                                                           
+        Ngay up patch : 06h00 07-03-2011                                                                                            
+Client patch: 6.0.8
+
+------------------6.0.42-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Update map VA BDH                                                                                         
+        Ngay tao patch : 9h20 07-03-2011                                                                                           
+        Ngay up patch : 06h00 08-03-2011                                                                                            
+Client patch: 6.0.8
+
+------------------6.0.43-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Edit skill Houyi                                                                                         
+        Ngay tao patch : 9h20 09-03-2011                                                                                           
+        Ngay up patch : 06h00 10-03-2011                                                                                            
+Client patch: 6.0.8
+
+------------------6.0.44-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - IB Shop                                                                                         
+        Ngay tao patch : 9h20 10-03-2011                                                                                           
+        Ngay up patch : 06h00 11-03-2011                                                                                            
+Client patch: 6.0.8
+
+------------------6.0.45-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Pet level 4                                                                                 
+        Ngay tao patch : 9h20 16-03-2011                                                                                           
+        Ngay up patch : 06h00 21-03-2011                                                                                            
+Client patch: 6.0.8
+
+------------------6.0.46-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Update 3rdWeek3                                                                              
+        Ngay tao patch : 9h20 21-03-2011                                                                                           
+        Ngay up patch : 06h00 23-03-2011                                                                                            
+Client patch: 6.0.8
+
+------------------6.0.47-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Update 4thWeek3                                                                              
+        Ngay tao patch : 9h20 28-03-2011                                                                                           
+        Ngay up patch : 06h00 29-03-2011                                                                                            
+Client patch: 6.0.8
+
+------------------6.0.48-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - 20110329_VNG_RosePrize                                                                         
+        Ngay tao patch : 9h20 29-03-2011                                                                                           
+        Ngay up patch : 06h00 30-03-2011                                                                                            
+Client patch: 6.0.8
+
+------------------6.0.49-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        -  Event thang 4/2011                                                                         
+        Ngay tao patch : 9h20 30-03-2011                                                                                           
+        Ngay up patch : 06h00 01-04-2011                                                                                            
+Client patch: 6.0.9
+
+------------------6.0.50-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        -  EditCNDSK                                                                       
+        Ngay tao patch : 9h20 01-04-2011                                                                                           
+        Ngay up patch : 06h00 02-04-2011                                                                                            
+Client patch: 6.0.9
+
+------------------6.0.51-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - 20110404_VNG_RosePrize                                                                      
+        Ngay tao patch : 9h20 06-04-2011                                                                                           
+        Ngay up patch : 06h00 02-04-2011                                                                                            
+Client patch: 6.0.9
+
+------------------6.0.52-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Chinh sua CNDSK                                                                    
+        Ngay tao patch : 9h20 07-04-2011                                                                                           
+        Ngay up patch : 06h00 09-04-2011                                                                                            
+Client patch: 6.0.9
+
+------------------6.0.53-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - IP Bonus + TALK                                                                    
+        Ngay tao patch : 9h20 13-04-2011                                                                                           
+        Ngay up patch : 06h00 15-04-2011                                                                                            
+Client patch: 6.0.10
+
+-----------------6.0.54-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Update tuan 2 thang 4/2011 + IBShop                                                                  
+        Ngay tao patch : 9h20 17-04-2011                                                                                           
+        Ngay up patch : 06h00 19-04-2011                                                                                            
+Client patch: 6.0.10
+
+-----------------6.0.55-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Event 30/4 + Chuyen Sinh 4                                                                
+        Ngay tao patch : 9h20 19-04-2011                                                                                           
+        Ngay up patch : 06h00 22-04-2011                                                                                            
+Client patch: 6.0.11
+
+-----------------6.0.56-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Change ExtPoint 4 thành 6                                                               
+        Ngay tao patch : 11h20 22-04-2011                                                                                           
+        Ngay up patch : 06h00 23-04-2011                                                                                            
+Client patch: 6.0.11
+
+-----------------6.0.57-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Patch tuan va IBShop                                               
+        Ngay tao patch :9h20 26-04-2011                                                                                           
+        Ngay up patch : 06h00 29-04-2011                                                                                            
+Client patch: 6.0.11
+
+-----------------6.0.58-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Open NPC Long Ho Su
+        Ngay tao patch :9h20 07-05-2011                                                                                           
+        Ngay up patch : 06h00 08-05-2011                                                                                            
+Client patch: 6.0.11
+
+-----------------6.0.59-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Modify 2ndWeekMay & IBshop & LuckyStar & BHTA5_ReceiveAward 
+        Ngay tao patch :9h20 09_05-2011                                                                                           
+        Ngay up patch : 06h00 14-05-2011                                                                                            
+Client patch: 6.0.11
+
+-----------------6.0.60-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Edit CS4 
+        Ngay tao patch :9h20 16-05-2011                                                                                           
+        Ngay up patch : 06h00 17-05-2011                                                                                            
+Client patch: 6.0.11
+
+-----------------6.0.61-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Edit tuan thu 3 thang 5 & trang bi su mon 4 & karaoke
+        Ngay tao patch :9h20 19-05-2011                                                                                           
+        Ngay up patch : 06h00 20-05-2011                                                                                            
+Client patch: 6.0.11
+
+-----------------6.0.62-------------------------                                                                                   
+Noi dung Patch :                                                                                                                    
+        - Close NPC Long Ho Su
+        Ngay tao patch :9h20 21-05-2011                                                                                           
+        Ngay up patch : 06h00 22-05-2011                                                                                            
+Client patch: 6.0.11
+-----------------6.0.63-------------------------                                                                                    
+Noi dung Patch :                                                                                                                    
+        - Close NPC Long Ho Su                                                                                                      
+        Ngay tao patch :9h20 21-05-2011                                                                                             
+        Ngay up patch : 06h00 23-05-2011                                                                                            
+Client patch: 6.0.11
+
+----------------6.0.64-------------------------                                                                                    
+Noi dung Patch :                                                                                                                    
+        - Edit karaoke                                                                                                   
+        Ngay tao patch :9h20 23-05-2011                                                                                             
+        Ngay up patch : 06h00 24-05-2011                                                                                            
+Client patch: 6.0.11
+
+-----------------6.0.65-------------------------                                                                                    
+Noi dung Patch :                                                                                                                    
+        - Edit CS4 lan 1                                                                                                            
+        Ngay tao patch :9h20 27-05-2011                                                                                             
+        Ngay up patch : 06h00 28-05-2011                                                                                            
+Client patch: 6.0.11     
+
+----------------6.0.66-------------------------                                                                                    
+Noi dung Patch :                                                                                                                    
+        - IB Shop                                                                                                   
+        Ngay tao patch :9h20 26-05-2011                                                                                             
+        Ngay up patch : 06h00 30-05-2011                                                                                            
+Client patch: 6.0.11
+
+----------------6.0.67-------------------------                                                                                    
+Noi dung Patch :                                                                                                                    
+        - Quay So InGame                                                                                                   
+        Ngay tao patch :9h20 31-05-2011                                                                                             
+        Ngay up patch : 06h00 15-06-2011                                                                                            
+Client patch: 6.0.11
+
+---------------7.0.00---------------------------
+Noi dung patch :
+	- Phien ban Thien Mon Tran va Event thang 6
+	Ngay tao patch : 9h00 8-06-2011
+	Ngay up patch : 06h00 17-06-2011
+client patch : 7.0.0
+
+---------------7.0.01---------------------------
+Noi dung patch :
+	- Patch enable Thien Mon Tran
+	Ngay tao patch : 9h00 17-06-2011
+	Ngay up patch : 06h00 20-06-2011
+client patch : 7.0.0
+
+---------------7.0.02---------------------------
+Noi dung patch :                                                                                                                    
+        - IB Shop                                                                                                                   
+        Ngay tao patch : 19h00 19-06-2011                                                                                           
+        Ngay up patch : 06h00 20-06-2011                                                                                            
+client patch : 7.0.0
+
+---------------7.0.03---------------------------
+Noi dung patch :                                                                                                                    
+        - Add log Thien Mon Tran                                                                                                    
+        Ngay tao patch : 19h00 20-06-2011                                                                                           
+        Ngay up patch : 06h00 21-06-2011                                                                                            
+client patch : 7.0.0
+
+---------------7.0.04---------------------------
+Noi dung patch :                                                                                                                    
+        - Edit 3rd Week June                                                                                                    
+        Ngay tao patch : 19h00 21-06-2011                                                                                           
+        Ngay up patch : 06h00 22-06-2011                                                                                            
+client patch : 7.0.0
+
+---------------7.0.05---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Update key item list                                                                                                      
+        Ngay tao patch : 19h00 22-06-2011                                                                                           
+        Ngay up patch : 06h00 23-06-2011                                                                                            
+client patch : 7.0.0
+
+---------------7.0.06---------------------------
+Noi dung patch :                                                                                                                    
+        - Phat thuong Karaoke; Mo rong event thang 6
+	& mo server moi
+        Ngay tao patch : 19h00 22-06-2011                                                                                           
+        Ngay up patch : 06h00 24-06-2011                                                                                            
+client patch : 7.0.0
+
+---------------7.0.07---------------------------
+Noi dung patch :                                                                                                                    
+        - Close NPC TMT & Pet
+        Ngay tao patch : 19h00 24-06-2011                                                                                           
+        Ngay up patch : 06h00 25-06-2011                                                                                            
+client patch : 7.0.1
+
+---------------7.0.08---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Update HKLB Tuong Phung                                                                                                   
+        Ngay tao patch : 19h00 29-06-2011                                                                                           
+        Ngay up patch : 06h00 30-06-2011                                                                                            
+client patch : 7.0.1                                                                                                                
+                                                                                                                    
+---------------7.0.09---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - IB Shop; EditPetInstance; 4thWeekJun                                                                                      
+	Ngay tao patch : 19h00 30-06-2011                                                                                           
+        Ngay up patch : 06h00 01-07-2011                                                                                            
+client patch : 7.0.1                                                                                                                
+                                                                                                                                                                                                                                                                                                                        
+---------------7.0.10---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Edit Quan Cong new server                                                                                                 
+        Ngay tao patch : 19h00 03-07-2011                                                                                           
+        Ngay up patch : 06h00 04-07-2011                                                                                            
+client patch : 7.0.1
+
+---------------7.0.11---------------------------
+Noi dung patch :                                                                                                                    
+        - Promotion CSM5.0
+        Ngay tao patch : 15h00 27-06-2011                                                                                           
+        Ngay up patch : 06h00 01-07-2011                                                                                            
+client patch : 7.0.1
+
+---------------7.0.12---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Update diem quan cong                                                                                                     
+        Ngay tao patch : 15h00 5-07-2011                                                                                            
+        Ngay up patch : 06h00 07-07-2011                                                                                            
+client patch : 7.0.1
+
+---------------7.0.13---------------------------
+Noi dung patch :                                                                                                                    
+        - Dieu chinh tuan
+        Ngay tao patch :06h00 06-07-2011                                                                                            
+        Ngay up patch : 06h00 08-07-2011                                                                                            
+client patch : 7.0.1
+
+---------------7.0.14---------------------------
+Noi dung patch :                                                                                                                    
+        - IB Shop
+        Ngay tao patch :06h00 10-07-2011                                                                                            
+        Ngay up patch : 06h00 11-07-2011                                                                                            
+client patch : 7.0.1
+
+---------------7.0.15---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - EventThang7                                                                                                                   
+        Ngay tao patch :06h00 10-07-2011                                                                                            
+        Ngay up patch : 06h00 15-07-2011                                                                                            
+client patch : 7.0.2
+
+---------------7.0.16---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Update log event thang 7                                                                                                  
+        Ngay tao patch :06h00 20-07-2011                                                                                            
+        Ngay up patch : 06h00 21-07-2011                                                                                                    
+client patch : 7.0.2
+
+---------------7.0.17---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - EventTuan3Thang7                                                                                                          
+        Ngay tao patch :06h00 10-07-2011                                                                                            
+        Ngay up patch : 06h00 22-07-2011                                                                                            
+client patch : 7.0.2                                                                                                                
+                                                                                                                                                                                                                                                                                                                
+---------------7.0.18---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Edit CSM5                                                                                                                 
+        Ngay tao patch :13h00 22-07-2011                                                                                            
+        Ngay up patch : 14h00 22-07-2011                                                                                            
+client patch : 7.0.2
+
+---------------7.0.19---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - 20110720_VNG_EditTMT                                                                                                                
+        Ngay tao patch :06h00 20-07-2011                                                                                            
+        Ngay up patch : 06h00 23-07-2011                                                                                            
+client patch : 7.0.2
+
+---------------7.0.20---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Update phan thuong HKLB3                                                                                                  
+        Ngay tao patch :11h00 25-07-2011                                                                                            
+        Ngay up patch : 06h00 27-07-2011                                                                                            
+client patch : 7.0.2
+
+---------------7.0.21---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Update log event T7/2011                                                                                                                
+        Ngay tao patch :06h00 26-07-2011                                                                                            
+        Ngay up patch : 06h00 28-07-2011                                                                                            
+client patch : 7.0.2
+
+---------------7.0.22---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Add npc TMT                                                                                                               
+        Ngay tao patch :06h00 26-07-2011                                                                                            
+        Ngay up patch : 06h00 29-07-2011                                                                                            
+client patch : 7.0.2
+
+---------------7.0.23---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Top Server Duy Long                                                                                                               
+        Ngay tao patch :03h00 28-07-2011                                                                                            
+        Ngay up patch : 06h00 04-08-2011                                                                                            
+client patch : 7.0.3
+
+---------------7.0.24---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Update ID 70 server test                                                                                                  
+        Ngay tao patch :03h00 13-08-2011                                                                                                                   Ngay up patch : 06h00 13-08-2011                                                                                            
+client patch : 7.0.3                                                                                                                
+                                                                                                                                                            
+----------------7.0.25-------------------------                                                                                     
+Noi dung patch :                                                                                                                    
+        - Open map Tu Linh                                                                                                          
+        - Dung de test 2 server thu nghiem.                                                                                         
+        Ngay tao patch : 9h00 10-08-2011                                                                                            
+        Ngay up patch : 23h00 12-08-2011                                                                                            
+Client patch : 7.0.4                                                                                                                
+                                                                                                                                                                                                                                                                                                                                
+----------------7.0.26-------------------------                                                                                     
+Noi dung patch :                                                                                                                    
+        - Thu nghiem                                                                                                                
+        - Dung de test 1 server thu nghiem Dao Hoa Dao (Thai Ung)                                                                   
+        Ngay tao patch : 9h00 10-08-2011                                                                                            
+        Ngay up patch : 19h00 13-08-2011                                                                                            
+Client patch : 7.0.4                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+---------------7.0.27---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+	- Update log format Luong Son                                                                                               
+        Ngay tao patch :03h00 16-08-2011                                                                                            
+        Ngay up patch : 06h00 18-08-2011                                                                                            
+client patch : 7.0.5                      
+
+---------------7.0.28---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Dieu chinh Ngoi Sao May Man va Nu Oa Bao Hap                                                                                                              
+        Ngay tao patch :03h00 17-08-2011                                                                                            
+        Ngay up patch : 06h00 19-08-2011                                                                                            
+client patch : 7.0.5
+
+---------------7.0.29---------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Edit Phao Hoa - Trong Hat giong                                                                                                            
+        Ngay tao patch :10h00 19-08-2011                                                                                            
+        Ngay up patch : 06h00 20-08-2011                                                                                            
+client patch : 7.0.5
+
+--------------- 7.0.30 -------------------------
+Noi dung patch :
+	- Dieu chinh IB Shop ( Close item Bi quyet lam kem )
+	Ngay tao patch : 10h00 21-08-2011
+	Ngay up patch : 06h00 22-08-2011
+Client patch : 7.0.5
+
+--------------- 7.0.31 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Mo Event Trung Thu                                                                                                        
+        Ngay tao patch : 10h00 24-08-2011                                                                                           
+        Ngay up patch : 06h00 26-08-2011                                                                                            
+Cient patch : 7.0.5
+                                                                                                                                                            
+--------------- 7.0.32 -------------------------
+Noi dung patch :
+	- Upgared Ngu Long Tuong Quan and edit Log
+	Ngay tao patch : 7h00 24-08-2011
+	Ngay up patch : 06h00 30-08-2011
+Client patch : 7.0.5
+
+--------------- 7.0.33 -------------------------
+Noi dung patch :
+	- Mo rong even Trung thu
+	Ngay tao patch : 15h00 28-08-2011
+	Ngay up patch : 06h00 01-09-2011
+Client patch : 7.0.5
+
+--------------- 7.0.34 -------------------------
+Noi dung patch :
+	-Edit Niªn thó
+	Ngay tao patch : 15h00 05-09-2011
+	Ngay up patch : 06h00 06-09-2011
+Client patch : 7.0.5
+
+--------------- 7.0.35 -------------------------
+Noi dung patch :
+	- Patch Vo Lam Bao Hap & Binh Chon Sang Tac
+	Ngay tao patch : 9h00 06-09-2011
+	Ngay up patch : 06h00 09-09-2011
+Client patch : 7.0.5
+
+--------------- 7.0.36 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Patch Edit Ngu Long Tuong Quan                                                                                            
+        Ngay tao patch : 9h00 12-09-2011                                                                                            
+        Ngay up patch : 06h00 13-09-2011                                                                                            
+Client patch : 7.0.5
+
+--------------- 7.0.37 -------------------------
+Noi dung patch :
+	- Patch dieu chinh tuan 2 thang 9 thuong hoi
+	Ngay tao patch : 9h00 12-09-2011
+	Ngay up patch : 06h00 14-09-2011
+Client patch : 7.0.5
+
+--------------- 7.0.38 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Patch Edit Quan Cong khi chuyen server                                                                                    
+        Ngay tao patch : 15h00 12-09-2011                                                                                           
+        Ngay up patch : 06h00 15-09-2011                                                                                            
+Client patch : 7.0.5                                                                                                                
+                                                                                                                                                            
+--------------- 7.0.39 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Patch Long Ho Tranh Hung                                                                                                  
+        Chi up dautruong1 & dautruong2                                                                                              
+        Ngay tao patch : 9h00 12-09-2011                                                                                            
+	Ngay up patch : 11h00 15-09-2011                                                                                            
+Client patch : 7.0.5
+
+--------------- 7.0.40 -------------------------
+Noi dung patch :
+	- Patch Ipbonus 
+	Ngay tao patch : 9h00 14-09-2011
+	Ngay up patch : 06h00 16-09-2011
+Client patch : 7.0.5
+
+------------- 7.0.41 -------------------------                                                                                      
+Noi dung patch :                                                                                                                    
+        - Patch Long Ho Tranh Hung_1                                                                                                
+        Chi up dautruong1 & dautruong2                                                                                              
+        Ngay tao patch : 9h00 12-09-2011                                                                                            
+        Ngay up patch : 15h00 16-09-2011                                                                                            
+Client patch : 7.0.5                                                                                                                
+                                                                                                                                                                    
+------------- 7.0.42 -------------------------                                                                                      
+Noi dung patch :                                                                                                                    
+        - Patch Long Ho Tranh Hung_2                                                                                                
+        Ngay tao patch : 9h00 12-09-2011                                                                                            
+        Ngay up patch : 09h00 17-09-2011                                                                                            
+Client patch : 7.0.5                                                                                                                
+                                                                                                                                                                                                                                                                                                                                
+--------------- 7.0.43 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Dieu chinh tuan 3 thang 9                                                                                                 
+        Ngay tao patch : 9h00 19-09-2011                                                                                            
+        Ngay up patch : 06h00 23-09-2011                                                                                            
+Client patch : 7.0.5
+
+--------------- 7.0.44 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Patch Ipbonus (Giam gia : Nu oa_ 2 xu; Ngoi sao_50 xu)                                 
+        Ngay tao patch : 9h00 21-09-2011                                                                                            
+        Ngay up patch : 06h00 26-09-2011                                                                                            
+Client patch : 7.0.5
+
+--------------- 7.0.45 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Top Quang Long                                                                                                            
+        Ngay tao patch : 15h00 27-09-2011                                                                                           
+        Ngay up patch : 17h00 29-09-2011                                                                                            
+Client patch : 7.0.5 
+
+--------------- 7.0.46 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Update Server Quang Long
+        - RosePrize6
+        -4thWeekSep                             
+        Ngay tao patch : 14h00 27-09-2011                                                                                            
+        Ngay up patch : 06h00 30-09-2011                                                                                            
+Client patch : 7.0.5
+
+--------------- 7.0.47 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Update task chuyen server                                                                                                            
+        Ngay tao patch : 15h00 30-09-2011                                                                                           
+        Ngay up patch : 10h20 30-09-2011                                                                                            
+Client patch : 7.0.5 
+
+--------------- 7.0.48 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        - Close item Nhan banh Trung Thu (IB Shop)                                                                                                            
+        Ngay tao patch : 09h00 30-09-2011                                                                                           
+        Ngay up patch : 06h00 03-10-2011                                                                                            
+Client patch : 7.0.6 
+
+--------------- 7.0.49 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        Patch Ipbonus (Giam gia : Nu oa_ 1 xu; Ngoi sao_25 xu)                                                                                                                  
+        Ngay tao patch : 09h00 04-10-2011                                                                                           
+        Ngay up patch : 06h00 05-10-2011                                                                                            
+Client patch : 7.0.6 
+
+--------------- 7.0.50 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        Patch Event Thang 10                                                                                                             
+        Ngay tao patch : 09h00 01-10-2011                                                                                           
+        Ngay up patch : 06h00 07-10-2011                                                                                            
+Client patch : 7.0.7
+
+--------------- 7.0.51 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        Patch Event Thang 10                                                                                                             
+        Ngay tao patch : 09h00 04-10-2011                                                                                           
+        Ngay up patch : 06h00 10-10-2011                                                                                            
+Client patch : 7.0.7
+
+--------------- 7.0.52 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        Patch phat thuong hang tuan RoseWar                                                                                                             
+        Ngay tao patch : 09h00 11-10-2011                                                                                           
+        Ngay up patch : 06h00 13-10-2011                                                                                            
+Client patch : 7.0.7
+
+--------------- 7.0.53 -------------------------                                                                                    
+Noi dung patch :                                                                                                                    
+        Patch Edit GoldenCard                                                                                                      
+        Ngay tao patch : 09h00 13-10-2011                                                                                           
+        Ngay up patch : 06h00 14-10-2011                                                                                            
+Client patch : 7.0.7
+
+--------------- 7.0.54 -------------------------                                                                                    
+Noi dung patch :                
+	Patch update danh gia quan ham
+	Patch phat thuong tuan 2 RoseWar
+	Patch Den Bu                                                                                                    
+        Patch Chinh sua tuan 3
+        Ngay tao patch : 09h00 13-10-2011                                                                                           
+        Ngay up patch : 06h00 20-10-2011                                                                                            
+Client patch : 7.0.7
+
+--------------- 7.0.55 -------------------------                                                                                    
+Noi dung patch :                
+	Patch update danh gia quan ham
+	Ngay tao patch : 09h00 21-10-2011                                                                                           
+     Ngay up patch : 06h00 22-10-2011                                                                                            
+Client patch : 7.0.7
+
+--------------- 7.0.56 -------------------------                                                                                    
+Noi dung patch :                
+	Patch phat thuong tuan va dang ky thi dau BHTA
+	Ngay tao patch : 09h00 24-10-2011                                                                                           
+     Ngay up patch : 06h00 27-10-2011                                                                                            
+Client patch : 7.0.7
+
+--------------- 7.0.58 -------------------------                                                                                    
+Noi dung patch :                
+	Mo rong Event thang 10 lan 2
+	Ngay tao patch : 09h00 31-10-2011                                                                                           
+     Ngay up patch : 06h00 3-11-2011                                                                                            
+Client patch : 7.0.7
+
+
+--------------- 7.0.59 -------------------------                                                                                    
+Noi dung patch :                
+	Update remove skill luong son va update logo
+	Ngay tao patch : 09h00 4-11-2011                                                                                           
+     Ngay up patch : 06h00 5-11-2011                                                                                            
+Client patch : 7.0.7
+
+--------------- 7.0.62 -------------------------                                                                                    
+Noi dung patch :                
+	Chuyen sinh 5
+	Dy chuyen vi tri 3 item : Truong Khong Bao, Chien Bao Cup The Gioi, Nhat Dai Dai Hiep 
+	20111021_VNG_EventThang11
+	Update gold lam nhiem vu
+	Ngay tao patch : 09h00 6-11-2011                                                                                           
+     Ngay up patch : 06h00 11-11-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.63 -------------------------                                                                                    
+Noi dung patch :                
+	Phat thuong thi dau BHTA6
+	Ngay tao patch : 09h00 12-11-2011                                                                                           
+     Ngay up patch : 06h00 13-11-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.64 -------------------------                                                                                    
+Noi dung patch :                
+	Giam gia HKLB tu 14/11/2011 - 16/11/2011
+	Ngay tao patch : 09h00 13-11-2011                                                                                           
+     Ngay up patch : 06h00 14-11-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.65 -------------------------                                                                                    
+Noi dung patch :                
+	Cai tao trang bi TCTK
+	Më réng Event th¸ng 11 
+	Ngay tao patch : 09h00 14-11-2011                                                                                           
+     Ngay up patch : 06h00 18-11-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.66 -------------------------                                                                                    
+Noi dung patch :                
+	Dieu chinh ti le nang cap TC Viem De
+	Dieu chinh diem thuong vong CK BHTA6
+	Ngay tao patch : 09h00 18-11-2011                                                                                           
+     Ngay up patch : 06h00 19-11-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.67 -------------------------                                                                                    
+Noi dung patch :                
+	Giam gia HKLB
+	Ngay tao patch : 09h00 21-11-2011                                                                                           
+     Ngay up patch : 06h00 22-11-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.68 -------------------------                                                                                    
+Noi dung patch :                
+	Ban item Ban Long Bich _ 32 xu
+	Dong tinh nang
+	Ngay tao patch : 09h00 22-11-2011                                                                                           
+     Ngay up patch : 06h00 25-11-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.70 -------------------------                                                                                    
+Noi dung patch :                
+	Mo rong su dung Nu oa bao hap
+	Giam gia HKLB
+	Ngay tao patch : 09h00 25-11-2011                                                                                           
+     Ngay up patch : 06h00 29-11-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.71 -------------------------                                                                                    
+Noi dung patch :                
+	Update message cho TMZ
+	Ngay tao patch : 09h00 29-11-2011                                                                                           
+     Ngay up patch : 06h00 02-12-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.72 -------------------------                                                                                    
+Noi dung patch :                
+	Më L¹i Quay Sè Ingame
+	Ngay tao patch : 09h00 02-12-2011                                                                                           
+     Ngay up patch : 06h00 03-12-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.75 -------------------------                                                                                    
+Noi dung patch :                
+	Patch thÇn tµi gâ cöa
+	Ngay tao patch : 09h00 09-12-2011                                                                                           
+     Ngay up patch : 06h00 13-12-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.76 -------------------------                                                                                    
+Noi dung patch :                
+	Event Noel
+	Patch Chuyen Sinh
+	Ngay tao patch : 09h00 15-12-2011                                                                                           
+     Ngay up patch : 06h00 16-12-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.77 -------------------------                                                                                    
+Noi dung patch :                
+	Update ServerName
+	Dong doi thuong Luong Son
+	Patch Hai Chien Long Chau
+	Ngay tao patch : 09h00 22-12-2011                                                                                           
+     Ngay up patch : 06h00 23-12-2011                                                                                            
+Client patch : 7.0.8
+
+--------------- 7.0.78 -------------------------                                                                                    
+Noi dung patch :                
+	Update ServerID
+	Ngay tao patch : 16h00 23-12-2011                                                                                           
+     Ngay up patch : 06h00 24-12-2011                                                                                            
+Client patch : 7.0.9
+
+--------------- 7.0.79 -------------------------                                                                                    
+Noi dung patch :                
+	Update Hai chien long chau
+	Ngay tao patch : 16h00 24-12-2011                                                                                           
+     Ngay up patch : 06h00 25-12-2011                                                                                            
+Client patch : 7.0.10
+
+--------------- 7.0.80 -------------------------
+
+Noi dung patch :
+     Update Hao Nguyet
+     Ngay tao patch : 16h00 24-12-2011
+     Ngay up patch : 06h00 27-12-2011
+
+Client patch : 7.0.10
+
+--------------- 7.0.81 -------------------------
+
+Noi dung patch :
+	Dong tinh nang vuot ai Pet
+	Mo rong Event
+     Ngay tao patch : 16h00 29-12-2011
+     Ngay up patch : 06h00 30-12-2011
+
+Client patch : 7.0.10
+
+--------------- 7.0.82 -------------------------
+
+Noi dung patch :
+     Update Truyen Cong Thuat  
+     Ngay tao patch : 16h00 29-12-2011
+     Ngay up patch : 06h00 31-12-2011
+
+Client patch : 7.0.10
+
+--------------- 7.0.83 -------------------------
+
+Noi dung patch :
+     Mo rong Ngoi Sao, Nu Oa, Phao Hoa 
+     Ngay tao patch : 16h00 31-12-2011
+     Ngay up patch : 06h00 02-01-2012
+
+Client patch : 7.0.10
+
+--------------- 7.0.84 -------------------------
+
+Noi dung patch :
+     Giam gia HKLB
+     1stWeekJan
+     Ngay tao patch : 16h00 02-01-2012
+     Ngay up patch : 06h00 06-01-2012
+
+Client patch : 7.0.10
+
+---------------- 7.0.85 ------------------------
+
+Noi dung patch :
+    Dieu chinh nop Bat nha chung thu
+    Dieu chinh nhiem vu Tai nguyen chien
+    Ngay tao patch : 10h00 4-1-2012
+    Ngay up patch : 6h00 7-1-2012
+    
+Client patch : 7.0.10
+
+---------------- 7.0.86 ------------------------
+
+Noi dung patch :
+    Close Hop Qua Tren Ngu Cac (Ket thuc Event Giang Sinh)
+    Ngay tao patch : 10h00 9-1-2012
+    Ngay up patch : 6h00 10-1-2012
+
+Client patch : 7.0.10
+
+---------------- 8.0.0 ------------------------
+
+Noi dung patch :
+    	Event Tet Thang 1 2012
+	Ngay tao patch : 10h00 12-1-2012
+    	Ngay up patch : 6h00 13-1-2012
+
+Client patch : 8.0.0
+
+---------------- 8.0.1 ------------------------
+
+Noi dung patch :
+        Update Fix Loi Nga Mi Event Tet Thang 1 2012
+        Ngay tao patch : 10h00 14-1-2012
+        Ngay up patch : 6h00 15-1-2012
+
+Client patch : 8.0.1
+
+---------------- 8.0.2 ------------------------
+
+Noi dung patch :
+        DenBu_ServerThanhLong
+	BachKimViemDe
+	EditEventTet2012
+	TangKiemSonTrang
+	IBShopTet
+        Ngay tao patch : 10h00 19-1-2012
+        Ngay up patch : 6h00 20-1-2012
+
+Client patch : 8.0.1
+
+---------------- 8.0.3 ------------------------
+
+Noi dung patch :
+        Update log ruong NPC Thuong Nhan Bao Ruong
+	Update log Hai Chien Long Chau
+	Ngay tao patch : 10h00 20-1-2012
+        Ngay up patch : 6h00 21-1-2012
+
+Client patch : 8.0.1
+
+---------------- 8.0.4 ------------------------
+
+Noi dung patch :
+        Update Than Tai Bao Ruong
+        Ngay tao patch : 10h00 01-02-2012
+        Ngay up patch : 6h00 03-02-2012
+
+Client patch : 8.0.1
+
+---------------- 8.0.5 ------------------------
+
+Noi dung patch :
+        Update Danh Sach Top Server Tha'nh Long
+        Ngay tao patch : 10h00 02-02-2012
+        Ngay up patch : 6h00 03-02-2012
+
+Client patch : 8.0.1
+
+---------------- 8.0.6 ------------------------
+
+Noi dung patch :
+        Update Task ID All Server
+	Ngay tao patch : 10h00 02-03-2012
+        Ngay up patch : 6h00 03-04-2012
+
+Client patch : 8.0.1
+
+---------------- 8.0.7 ------------------------
+
+Noi dung patch :
+        Fix Loi Top Tha'nh Long
+        Ngay tao patch : 10h00 02-03-2012
+        Ngay up patch : 6h00 03-04-2012
+
+Client patch : 8.0.1
+
+---------------- 8.0.8 ------------------------
+
+Noi dung patch :
+        Update Quay So Nhan Thuong
+        Ngay tao patch : 10h00 02-03-2012
+        Ngay up patch : 6h00 02-08-2012
+
+Client patch : 8.0.1
+
+---------------- 8.0.9 ------------------------
+
+Noi dung patch :
+        Update Item Tha'nh Long
+        Ngay tao patch : 10h00 02-04-2012
+        Ngay up patch : 6h00 02-08-2012
+
+Client patch : 8.0.1
+
+---------------- 8.0.10 ------------------------
+
+Noi dung patch :
+        GiamGiaHKLB IBSHopSuaTinhChat
+	UpdateNuOaNgoiSao EventThang2
+        Ngay tao patch : 10h00 02-09-2012
+        Ngay up patch : 6h00 02-10-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.11 ------------------------
+
+Noi dung patch :
+        20120210_VNG_2ndWeekFeb 
+	Ngay tao patch : 10h00 02-10-2012
+        Ngay up patch : 6h00 02-17-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.12 ------------------------
+
+Noi dung patch :
+        20120206_VNG_1stWeekFeb
+	20120217_VNG_UpdateLogMatTich
+        Ngay tao patch : 10h00 02-17-2012
+        Ngay up patch : 6h00 02-18-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.13 ------------------------
+
+Noi dung patch :
+        20120222_VNG_NewThanhLong
+        Build moi server ThanhLong
+        Ngay tao patch : 10h00 02-22-2012
+        Ngay up patch : 6h00 02-22-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.14 ------------------------
+
+Noi dung patch :
+        20120223_VNG_XoaItemThanhLong
+        Ngay tao patch : 10h00 02-23-2012
+        Ngay up patch : 6h00 02-24-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.15 ------------------------
+
+Noi dung patch :
+        20120220_VNG_EditMatTich
+        Ngay tao patch : 10h00 02-20-2012
+        Ngay up patch : 6h00 02-24-2012
+
+Client patch : 8.0.2
+
+
+---------------- 8.0.16 ------------------------
+
+Noi dung patch :
+        20120224_VNG_UpdateXoaItemThanhLong 
+        Ngay tao patch : 10h00 02-24-2012
+        Ngay up patch : 6h00 02-25-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.17 ------------------------
+
+Noi dung patch :
+        20120227_VNG_ItemHoangKimLenh
+	20120227_VNG_IBShopGiamGia
+        Ngay tao patch : 10h00 02-27-2012
+        Ngay up patch : 6h00 02-28-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.18 ------------------------
+
+Noi dung patch :
+        20120229_VNG_IBShopFixGia
+	Ngay tao patch : 10h00 02-29-2012
+        Ngay up patch : 6h00 03-01-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.19 ------------------------
+
+Noi dung patch :
+        20120229_VNG_DenBu
+        Ngay tao patch : 10h00 02-29-2012
+        Ngay up patch : 6h00 03-01-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.20 ------------------------
+
+Noi dung patch :
+        20120301_VNG_1stWeekMar
+	20120301_VNG_IBShop2Thang3
+        Ngay tao patch : 10h00 03-01-2012
+        Ngay up patch : 6h00 03-02-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.21 ------------------------
+
+Noi dung patch :
+        20120302_VNG_1stWeekMar_Update
+        Ngay tao patch : 10h00 03-02-2012
+        Ngay up patch : 6h00 03-03-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.22 ------------------------
+
+Noi dung patch :
+        20120302_VNG_IBShopRemoveKyLan
+        Ngay tao patch : 10h00 03-02-2012
+        Ngay up patch : 6h00 03-05-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.23 ------------------------
+
+Noi dung patch :
+        20120305_VNG_TaiNguyenChien_Update
+	20120220_VNG_TanThuLenh
+	Ngay tao patch : 10h00 03-02-2012
+        Ngay up patch : 6h00 03-07-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.24 ------------------------
+
+Noi dung patch :
+        20120306_VNG_TachTrangBi
+	20120307_VNG_IBShopLinhThach
+	Ngay tao patch : 10h00 03-02-2012
+        Ngay up patch : 6h00 03-07-2012
+
+Client patch : 8.0.2
+
+---------------- 8.0.25 ------------------------
+
+Noi dung patch :
+        20120305_VNG_ThanTaiBaoRuong_Update
+	20120229_VNG_EventThang3
+	20120308_VNG_IBShopChiVang
+	Ngay tao patch : 10h00 03-05-2012
+        Ngay up patch : 6h00 03-09-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.26 ------------------------
+
+Noi dung patch :
+        20120306_VNG_BachKimViemDe
+	Ngay tao patch : 10h00 03-06-2012
+        Ngay up patch : 6h00 03-10-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.27 ------------------------
+
+Noi dung patch :
+        20120220_VNG_MoiBanCungChoi
+	20120312_VNG_TanThuLenh_Update
+	20120313_VNG_IBShop14Thang3
+        Ngay tao patch : 10h00 03-12-2012
+        Ngay up patch : 6h00 03-14-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.28 ------------------------
+
+Noi dung patch :
+        20120313_VNG_TaiNguyenChien_Update
+	20120312_VNG_2ndWeekMar
+	20120308_VNG_BaoToanQuanCong
+	Ngay tao patch : 10h00 03-13-2012
+        Ngay up patch : 6h00 03-15-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.29 ------------------------
+
+Noi dung patch :
+	20120314_VNG_MoiBanCungChoi_Update
+        Ngay tao patch : 10h00 03-14-2012
+        Ngay up patch : 6h00 03-16-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.30 ------------------------
+Noi dung patch :
+	20120314_VNG_BaoToanQuanCong_Update
+        Ngay tao patch : 10h00 03-14-2012
+        Ngay up patch : 6h00 03-17-2012
+Client patch : 8.0.3
+
+---------------- 8.0.31 ------------------------
+
+Noi dung patch :
+	20120317_VNG_TongLieu_Update
+        Ngay tao patch : 10h00 03-17-2012
+        Ngay up patch : 6h00 03-18-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.32 ------------------------
+
+Noi dung patch :
+        20120317_VNG_PlatinumCard_New
+        Ngay tao patch : 10h00 03-17-2012
+        Ngay up patch : 6h00 03-22-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.33 ------------------------
+
+Noi dung patch :
+        20120322_VNG_PlatinumCard_Update 
+	20120322_VNG_IBShop23Thang3
+	20120318_VNG_BHTA7_Regis
+        Ngay tao patch : 10h00 03-22-2012
+        Ngay up patch : 6h00 03-23-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.34 ------------------------
+
+Noi dung patch :
+	20120322_VNG_Update_TinhNang
+	Ngay tao patch : 10h00 03-23-2012
+        Ngay up patch : 6h00 03-24-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.35 ------------------------
+
+Noi dung patch :
+        20120322_VNG_TopThanhLong_MoRong
+        Ngay tao patch : 10h00 03-22-2012
+        Ngay up patch : 6h00 03-24-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.36 ------------------------
+
+Noi dung patch :
+        20120325_VNG_Promotion_Everyday
+	20120325_VNG_4thWeekMar
+        Ngay tao patch : 10h00 03-25-2012
+        Ngay up patch : 6h00 03-27-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.37 ------------------------
+
+Noi dung patch :
+	20120327_VNG_HoangKimLenh_Update
+        Ngay tao patch : 10h00 03-27-2012
+        Ngay up patch : 6h00 03-28-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.38 ------------------------
+
+Noi dung patch :
+        20120328_VNG_IBShop29Thang3
+	20120328_VNG_Promotion_Everyday_2
+        Ngay tao patch : 10h00 03-28-2012
+        Ngay up patch : 6h00 03-29-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.39 ------------------------
+
+Noi dung patch :
+	20120329_VNG_MatTich70_Update
+	20120327_VNG_ThanTaiBaoRuong_Update
+        Ngay tao patch : 10h00 03-29-2012
+        Ngay up patch : 6h00 03-30-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.40 ------------------------
+
+Noi dung patch :
+        20120328_VNG_IBShop2Thang4
+        Ngay tao patch : 10h00 03-29-2012
+        Ngay up patch : 6h00 04-04-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.41 ------------------------
+
+Noi dung patch :
+        20120330_VNG_NewServer_PhuongPhung
+	20120404_VNG_BachKimLenh_Update
+        Ngay tao patch : 10h00 03-30-2012
+        Ngay up patch : 6h00 04-05-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.42 ------------------------
+
+Noi dung patch :
+        20120402_VNG_NewServer_Top_PhuongPhung
+	Ngay tao patch : 10h00 04-04-2012
+        Ngay up patch : 6h00 04-05-2012
+
+Client patch : 8.0.3
+
+---------------- 8.0.43 ------------------------
+
+Noi dung patch :
+	20120405_VNG_SatThuDuong_Update
+	20120404_VNG_TraoGiaiCS1_ThanhLong
+        Ngay tao patch : 10h00 04-05-2012
+        Ngay up patch : 6h00 04-05-2016
+
+Client patch : 8.0.3
+---------------- 8.0.44 ------------------------
+
+Noi dung patch :
+        20120405_VNG_BKL_Bonus
+        Ngay tao patch : 10h00 04-05-2012
+        Ngay up patch : 6h00 04-08-2016
+
+Client patch : 8.0.3
+
+---------------- 8.0.45 ------------------------
+
+Noi dung patch :
+        20120407_VNG_IBShopRemoveEvent3
+        Ngay tao patch : 10h00 04-07-2012
+        Ngay up patch : 6h00 04-09-2016
+
+Client patch : 8.0.3
+
+---------------- 8.0.46 ------------------------
+
+Noi dung patch :
+        20120409_VNG_ThuongHoi_New
+        Ngay tao patch : 10h00 04-09-2012
+        Ngay up patch : 6h00 04-11-2016
+
+Client patch : 8.0.3
+
+---------------- 8.0.47 ------------------------
+
+Noi dung patch :
+        20120410_VNG_TinhAnhLenhKy
+	20120409_VNG_EventThang4
+	20120410_VNG_IBShopEvent4
+	Ngay tao patch : 10h00 04-09-2012
+        Ngay up patch : 6h00 04-13-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.48 ------------------------
+
+Noi dung patch :
+        20120409_VNG_EventThang4
+        Ngay tao patch : 10h00 04-09-2012
+        Ngay up patch : 6h00 04-13-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.49 ------------------------
+
+Noi dung patch :
+        20120413_VNG_BachKimLenh_Update
+	20120413_VNG_HaiChienLongChau_Open
+        Ngay tao patch : 10h00 04-13-2012
+        Ngay up patch : 6h00 04-14-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.50 ------------------------
+
+Noi dung patch :
+	20120414_VNG_EventThang4_Update
+        Ngay tao patch : 10h00 04-14-2012
+        Ngay up patch : 6h00 04-15-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.51 ------------------------
+
+Noi dung patch :
+	20120410_VNG_TinhAnhLenhKy_Dot2
+        Ngay tao patch : 10h00 04-10-2012
+        Ngay up patch : 6h00 04-16-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.52 ------------------------
+
+Noi dung patch :
+        20120416_VNG_IBShopGiamGia
+	20120416_VNG_QuaySoNhanThuong
+        Ngay tao patch : 10h00 04-16-2012
+        Ngay up patch : 6h00 04-17-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.53 ------------------------
+
+Noi dung patch :
+	20120415_VNG_BachKimLenh_Update2
+	20120417_VNG_IBShopThienThach
+	Ngay tao patch : 10h00 04-17-2012
+        Ngay up patch : 6h00 04-18-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.54 ------------------------
+
+Noi dung patch :
+        20120412_VNG_KinhMach
+	20120418_VNG_IBShopHoaThiBich
+	20120416_VNG_MorongEvent
+	Ngay tao patch : 10h00 04-16-2012
+        Ngay up patch : 6h00 04-20-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.55 ------------------------
+
+Noi dung patch :
+	20120420_VNG_KinhMach_Update
+	20120416_VNG_CamNangDaiSuKien_VipCare
+	20120418_VNG_IBShopFixThienThach
+        20120420_VNG_GiamGiaBKL
+	Ngay tao patch : 10h00 04-18-2012
+        Ngay up patch : 6h00 04-21-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.56 ------------------------
+
+Noi dung patch :
+        20120420_VNG_KinhMach_Update
+        Ngay tao patch : 10h00 04-20-2012
+        Ngay up patch : 6h00 04-22-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.57 ------------------------
+
+Noi dung patch :
+        20120421_VNG_ChuyenSinhDon_Update
+	20120418_VNG_IBShopFixAll
+        Ngay tao patch : 10h00 04-21-2012
+        Ngay up patch : 6h00 04-23-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.58 ------------------------
+
+Noi dung patch :
+        20120424_VNG_Promotion_Everyday_3
+        Ngay tao patch : 10h00 04-23-2012
+        Ngay up patch : 6h00 04-25-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.59 ------------------------
+
+Noi dung patch :
+        20120425_VNG_FixLoiBKL
+        Ngay tao patch : 10h00 04-25-2012
+        Ngay up patch : 6h00 04-29-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.60 ------------------------
+
+Noi dung patch :
+        20120501_VNG_MoRong_HDTG
+        Ngay tao patch : 10h00 01-05-2012
+        Ngay up patch : 6h00 02-05-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.61 ------------------------
+
+Noi dung patch :
+	20120503_VNG_KinhMach_VoTuong
+	20120503_VNG_IBShopBoiNguyenDon
+        Ngay tao patch : 10h00 03-05-2012
+        Ngay up patch : 6h00 04-05-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.62 ------------------------
+
+Noi dung patch :
+	20120504_VNG_IBShopDaiNganPhieu 
+        Ngay tao patch : 10h00 04-05-2012
+        Ngay up patch : 6h00 05-05-2012
+
+Client patch : 8.0.4
+
+---------------- 8.0.63 ------------------------
+ 
+Noi dung patch :
+        20120424_VNG_DenBuThang4
+	20120504_VNG_IBShopRemoveHuyHieu
+        Ngay tao patch : 10h00 04-05-2012
+        Ngay up patch : 6h00 10-05-2012
+ 
+Client patch : 8.0.4
+
+---------------- 8.0.64 ------------------------
+
+Noi dung patch :
+        20120509_VNG_2ndWeekMay
+	20120507_VNG_DoiDiemChanKhi
+	20120507_VNG_NangCap_Update
+	20120502_VNG_EventThang5
+	20120510_VNG_IBShopEventThang5
+	20120508_VNG_TuQuangCac_Update
+        Ngay tao patch : 10h00 04-05-2012
+        Ngay up patch : 6h00 11-05-2012
+
+Client patch : 8.0.5
+
+---------------- 8.0.65 ------------------------
+
+Noi dung patch :
+	20120510_VNG_VoLamBaoHap
+        Ngay tao patch : 10h00 11-05-2012
+        Ngay up patch : 6h00 12-05-2012
+
+Client patch : 8.0.5
+
+---------------- 8.0.66 ------------------------
+
+Noi dung patch :
+        20120512_VNG_IBShopFixDaiNganPhieu
+        Ngay tao patch : 10h00 11-05-2012
+        Ngay up patch : 6h00 13-05-2012
+
+Client patch : 8.0.5
